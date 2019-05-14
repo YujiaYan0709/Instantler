@@ -1,0 +1,637 @@
+{
+  "finedining": {
+    "search": {
+      "business": [
+       {
+          "name": "The Restaurant at The Getty Center",
+          "rating": 4,
+          "review_count": 565,
+          "location": {
+            "address1": "1200 Getty Center Dr",
+            "city": "Los Angeles",
+            "state": "CA",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1130",
+                  "end": "1430"
+                },
+                {
+                  "start": "1130",
+                  "end": "1430"
+                },
+                {
+                  "start": "1130",
+                  "end": "1430"
+                },
+                {
+                  "start": "1130",
+                  "end": "1430"
+                },
+                {
+                  "start": "1130",
+                  "end": "1430"
+                },
+                {
+                  "start": "1700",
+                  "end": "2100"
+                },
+                {
+                  "start": "1100",
+                  "end": "1500"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media2.fl.yelpcdn.com/bphoto/DtGLYMgvl6fLB6Nz5lj-0Q/o.jpg"
+          ],
+          "phone": "+13104406810",
+          "price": "$$$"
+        },
+        {
+          "name": "L'Opera",
+          "rating": 4,
+          "review_count": 550,
+          "location": {
+            "address1": "101 Pine Ave",
+            "city": "Long Beach",
+            "state": "CA",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1130",
+                  "end": "2200"
+                },
+                {
+                  "start": "1130",
+                  "end": "2200"
+                },
+                {
+                  "start": "1130",
+                  "end": "2200"
+                },
+                {
+                  "start": "1130",
+                  "end": "2200"
+                },
+                {
+                  "start": "1130",
+                  "end": "2230"
+                },
+                {
+                  "start": "1700",
+                  "end": "2230"
+                },
+                {
+                  "start": "1700",
+                  "end": "2100"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media3.fl.yelpcdn.com/bphoto/7bnf4Z91nnmHMdIj7MaJ6g/o.jpg"
+          ],
+          "phone": "+15624910066",
+          "price": "$$$"
+        },
+        {
+          "name": "The Cellar",
+          "rating": 4,
+          "review_count": 1171,
+          "location": {
+            "address1": "305 N Harbor Blvd",
+            "city": "Fullerton",
+            "state": "CA",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1700",
+                  "end": "0000"
+                },
+                {
+                  "start": "1700",
+                  "end": "0000"
+                },
+                {
+                  "start": "1700",
+                  "end": "0000"
+                },
+                {
+                  "start": "1700",
+                  "end": "0000"
+                },
+                {
+                  "start": "1700",
+                  "end": "0130"
+                },
+                {
+                  "start": "1700",
+                  "end": "0130"
+                },
+                {
+                  "start": "1700",
+                  "end": "0000"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media3.fl.yelpcdn.com/bphoto/EkAs1x1kZPPLTnTn9DxUbw/o.jpg"
+          ],
+          "phone": "+17145255682",
+          "price": "$$$"
+        },
+        {
+          "name": "Catal Restaurant",
+          "rating": 4,
+          "review_count": 1612,
+          "location": {
+            "address1": "1580 Disneyland Dr",
+            "city": "Anaheim",
+            "state": "CA",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "0800",
+                  "end": "2100"
+                },
+                {
+                  "start": "0800",
+                  "end": "2100"
+                },
+                {
+                  "start": "0800",
+                  "end": "2100"
+                },
+                {
+                  "start": "0800",
+                  "end": "2100"
+                },
+                {
+                  "start": "0800",
+                  "end": "2200"
+                },
+                {
+                  "start": "0800",
+                  "end": "2200"
+                },
+                {
+                  "start": "0800",
+                  "end": "2100"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media2.fl.yelpcdn.com/bphoto/OXsBo2_ExMuOTZ3U7AquIA/o.jpg"
+          ],
+          "phone": "+17147744442",
+          "price": "$$$"
+        },
+        {
+          "name": "Carthay Circle Restaurant",
+          "rating": 4,
+          "review_count": 1641,
+          "location": {
+            "address1": "Disney California Adventure Park Carthay Cir",
+            "city": "Anaheim",
+            "state": "CA",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1200",
+                  "end": "2100"
+                },
+                {
+                  "start": "1200",
+                  "end": "2100"
+                },
+                {
+                  "start": "1200",
+                  "end": "2200"
+                },
+                {
+                  "start": "1200",
+                  "end": "2200"
+                },
+                {
+                  "start": "1200",
+                  "end": "2200"
+                },
+                {
+                  "start": "1200",
+                  "end": "2200"
+                },
+                {
+                  "start": "1200",
+                  "end": "2200"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media2.fl.yelpcdn.com/bphoto/tCpZFXD1QNRnEicaQ9C4mQ/o.jpg"
+          ],
+          "phone": "+17147814565",
+          "price": "$$$"
+        },
+        {
+          "name": "Raisu Japanese Fine Dining",
+          "rating": 4.5,
+          "review_count": 115,
+          "location": {
+            "address1": "2958 W Irving Park Rd",
+            "city": "Chicago",
+            "state": "IL",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1700",
+                  "end": "2200"
+                },
+                {
+                  "start": "1700",
+                  "end": "2200"
+                },
+                {
+                  "start": "1700",
+                  "end": "2200"
+                },
+                {
+                  "start": "1700",
+                  "end": "2200"
+                },
+                {
+                  "start": "1700",
+                  "end": "2200"
+                },
+                {
+                  "start": "1700",
+                  "end": "2200"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media3.fl.yelpcdn.com/bphoto/I_RgbUGweTU84sORm-gtog/o.jpg"
+          ],
+          "phone": "+17739617299",
+          "price": "$$$"
+        },
+        {
+          "name": "Usmania Fine Dining",
+          "rating": 3,
+          "review_count": 204,
+          "location": {
+            "address1": "2244 W Devon Ave",
+            "city": "Chicago",
+            "state": "IL",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1100",
+                  "end": "2200"
+                },
+                {
+                  "start": "1100",
+                  "end": "2200"
+                },
+                {
+                  "start": "1100",
+                  "end": "2200"
+                },
+                {
+                  "start": "1100",
+                  "end": "2200"
+                },
+                {
+                  "start": "1215",
+                  "end": "2200"
+                },
+                {
+                  "start": "1215",
+                  "end": "2200"
+                },
+                {
+                  "start": "1215",
+                  "end": "2200"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media4.fl.yelpcdn.com/bphoto/pyvf72ZSeDhMq9ZMonxSBA/o.jpg"
+          ],
+          "phone": "+17732621900",
+          "price": "$$"
+        },
+        {
+          "name": "Charminar Fine Dining",
+          "rating": 3.5,
+          "review_count": 9,
+          "location": {
+            "address1": "2501 W Devon Ave",
+            "city": "Chicago",
+            "state": "IL",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1200",
+                  "end": "2300"
+                },
+                {
+                  "start": "1200",
+                  "end": "2300"
+                },
+                {
+                  "start": "1200",
+                  "end": "2300"
+                },
+                {
+                  "start": "1200",
+                  "end": "2300"
+                },
+                {
+                  "start": "1200",
+                  "end": "2300"
+                },
+                {
+                  "start": "1200",
+                  "end": "2300"
+                },
+                {
+                  "start": "1200",
+                  "end": "2300"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media1.fl.yelpcdn.com/bphoto/s93fuNmrYvdUl5aHE9NQYg/o.jpg"
+          ],
+          "phone": "+17735086766",
+          "price": "$$$"
+        },
+        {
+          "name": "Fine Style Dining",
+          "rating": 4,
+          "review_count": 2,
+          "location": {
+            "address1": "651 Elton Ave",
+            "city": "Bronx",
+            "state": "NY",
+            "country": "US"
+          },
+          "hours": [],
+          "photos": [
+            "https://s3-media3.fl.yelpcdn.com/bphoto/None/o.jpg"
+          ],
+          "phone": "+13472702370",
+          "price": null
+        },
+        {
+          "name": "Vaucluse",
+          "rating": 4,
+          "review_count": 221,
+          "location": {
+            "address1": "100 E 63rd St",
+            "city": "New York",
+            "state": "NY",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1200",
+                  "end": "1430"
+                },
+                {
+                  "start": "1730",
+                  "end": "2200"
+                },
+                {
+                  "start": "1200",
+                  "end": "2200"
+                },
+                {
+                  "start": "1200",
+                  "end": "2200"
+                },
+                {
+                  "start": "1200",
+                  "end": "2200"
+                },
+                {
+                  "start": "1200",
+                  "end": "2230"
+                },
+                {
+                  "start": "1700",
+                  "end": "2230"
+                },
+                {
+                  "start": "1130",
+                  "end": "2100"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media4.fl.yelpcdn.com/bphoto/4MCbjPJiLr9zhq6scgO5ug/o.jpg"
+          ],
+          "phone": "+16468692300",
+          "price": "$$$$"
+        },
+        {
+          "name": "Junoon",
+          "rating": 3.5,
+          "review_count": 1350,
+          "location": {
+            "address1": "27 W 24th St",
+            "city": "New York",
+            "state": "NY",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1200",
+                  "end": "2230"
+                },
+                {
+                  "start": "1200",
+                  "end": "2230"
+                },
+                {
+                  "start": "1200",
+                  "end": "2230"
+                },
+                {
+                  "start": "1200",
+                  "end": "2230"
+                },
+                {
+                  "start": "1200",
+                  "end": "2330"
+                },
+                {
+                  "start": "1300",
+                  "end": "2330"
+                },
+                {
+                  "start": "1200",
+                  "end": "2230"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media4.fl.yelpcdn.com/bphoto/iG6DrgsDb2ln2F3nJnZc-Q/o.jpg"
+          ],
+          "phone": "+12124902100",
+          "price": "$$$"
+        },
+        {
+          "name": "III Amici Ristorante",
+          "rating": 3.5,
+          "review_count": 58,
+          "location": {
+            "address1": "1700 W Elizabeth Ave",
+            "city": "Linden",
+            "state": "NJ",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1130",
+                  "end": "2200"
+                },
+                {
+                  "start": "1130",
+                  "end": "2200"
+                },
+                {
+                  "start": "1130",
+                  "end": "2200"
+                },
+                {
+                  "start": "1130",
+                  "end": "2200"
+                },
+                {
+                  "start": "1130",
+                  "end": "2300"
+                },
+                {
+                  "start": "1600",
+                  "end": "2300"
+                },
+                {
+                  "start": "1400",
+                  "end": "2100"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media3.fl.yelpcdn.com/bphoto/Q3mOibFSBRtI5bctWi4Pjw/o.jpg"
+          ],
+          "phone": "+19088620020",
+          "price": "$$"
+        },
+        {
+          "name": "The Palm Court at The Carltun",
+          "rating": 4,
+          "review_count": 47,
+          "location": {
+            "address1": "The Carltun",
+            "city": "East Meadow",
+            "state": "NY",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1200",
+                  "end": "1430"
+                },
+                {
+                  "start": "1700",
+                  "end": "2200"
+                },
+                {
+                  "start": "1200",
+                  "end": "1430"
+                },
+                {
+                  "start": "1700",
+                  "end": "2200"
+                },
+                {
+                  "start": "1200",
+                  "end": "1430"
+                },
+                {
+                  "start": "1700",
+                  "end": "2200"
+                },
+                {
+                  "start": "1200",
+                  "end": "1430"
+                },
+                {
+                  "start": "1700",
+                  "end": "2200"
+                },
+                {
+                  "start": "1800",
+                  "end": "2300"
+                },
+                {
+                  "start": "1100",
+                  "end": "1500"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media2.fl.yelpcdn.com/bphoto/Yz5Orsr_4kFtMOA-kxFj9Q/o.jpg"
+          ],
+          "phone": "+15165420700",
+          "price": "$$$"
+        }
+      ]
+    }
+  }
+}

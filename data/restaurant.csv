@@ -1,0 +1,254 @@
+address,city,id,name,phone_num,photo_url,price,rating,ratings_count,state,user_id
+181 Bleecker St,New York,1,Chow House,12128371021,https://s3-media3.fl.yelpcdn.com/bphoto/kzeClsI9_2tkHqKScotx1Q/o.jpg,$$,4.5,229,NY,22
+90 3rd Ave,New York,2,Han Dynasty,12123908685,https://s3-media3.fl.yelpcdn.com/bphoto/kcZfLvTSNSHu8_myp5eMbw/o.jpg,$$,4,1119,NY,23
+13 E 37th St,New York,3,Café China,12122132810,https://s3-media2.fl.yelpcdn.com/bphoto/XSudwvbbAfYFYZViZB5ucw/o.jpg,$$,4,1382,NY,24
+309 E 5th St,New York,4,Jiang Diner,,https://s3-media1.fl.yelpcdn.com/bphoto/h8IH0qTI0xDfQ1_KsROsaw/o.jpg,,4,13,NY,25
+118 Eldridge St,New York,5,Shu Jiao Fu Zhou Cuisine Restaurant,12126252532,https://s3-media2.fl.yelpcdn.com/bphoto/TALCyEl-e45rDrKk3vCWaQ/o.jpg,$,4.5,658,NY,26
+2545 N Halsted St,Chicago,6,Chengdu Impression,17734776256,https://s3-media2.fl.yelpcdn.com/bphoto/2V-if0v8X0UckMpRbm2sgA/o.jpg,$$,4,515,IL,27
+2218 N Lincoln Ave,Chicago,7,Xi'an Dynasty Cuisine,17739047253,https://s3-media4.fl.yelpcdn.com/bphoto/l09vs6CRgoQLoM5QNB9p3A/o.jpg,$$,5,26,IL,28
+3054 W Armitage Ave,Chicago,8,Cheng Chopsticks,17733841668,https://s3-media1.fl.yelpcdn.com/bphoto/8kIozWlJHvQKqFKyxl_MJw/o.jpg,$,3.5,135,IL,29
+1924 W Division St,Chicago,9,MAK Restaurant,17737726251,https://s3-media4.fl.yelpcdn.com/bphoto/GJQCgfAFWnNx_iqL5hHEUA/o.jpg,$$,4,233,IL,30
+333 E Benton Pl,Chicago,10,MingHin Cuisine,13122281333,https://s3-media4.fl.yelpcdn.com/bphoto/zhjqo0Bnks76XmQtgO6yaA/o.jpg,$$,4,685,IL,31
+819 N Broadway,Los Angeles,11,Yang Chow,12136250811,https://s3-media2.fl.yelpcdn.com/bphoto/IE5gIT5gXcS82yJAyxnG6g/o.jpg,$$,4,2340,CA,32
+8256 Beverly Blvd,Los Angeles,12,Bao Dim Sum House,13236556556,https://s3-media4.fl.yelpcdn.com/bphoto/Su6hAn4L13LnK_1aZ-dDqQ/o.jpg,$$,4,2560,CA,33
+709 N Virgil Ave,Los Angeles,13,Wah's Golden Hen,13236610093,https://s3-media1.fl.yelpcdn.com/bphoto/9FWG2rWD3A3aiqQ0zkIhyA/o.jpg,$,4.5,382,CA,34
+3100 W Olympic Blvd,Los Angeles,14,Young King,12134876154,https://s3-media2.fl.yelpcdn.com/bphoto/xOTL5HXjCgJWGjE_7TdKhA/o.jpg,$$,4,521,CA,35
+10250 Santa Monica Blvd,Los Angeles,15,Din Tai Fung,14243821118,https://s3-media2.fl.yelpcdn.com/bphoto/EuaNx-eJUtvWBmRnpXjudA/o.jpg,$$,4,777,CA,36
+4 Clinton St,New York,16,Clinton Street Baking Company,16466026263,https://s3-media1.fl.yelpcdn.com/bphoto/DWHdizJ9bKbXN4yq6nbwAA/o.jpg,$$,4,4597,NY,37
+132 W 31st St,New York,17,Friedman's,12129719400,https://s3-media1.fl.yelpcdn.com/bphoto/QI4c9-p60ZEXOU8XSHNv-A/o.jpg,$$,4,2086,NY,38
+42 Ave B,New York,18,POST,16469302724,https://s3-media1.fl.yelpcdn.com/bphoto/lXHQtNvqo91VXU5InkIvGw/o.jpg,$$,4.5,204,NY,39
+15 Cliff St,New York,19,Hole in the Wall,12126029991,https://s3-media1.fl.yelpcdn.com/bphoto/KQwNs2HFWF0GDEGoSYgAEg/o.jpg,$$,4.5,395,NY,40
+151 Elizabeth St,New York,20,Egg Shop,16466660810,https://s3-media2.fl.yelpcdn.com/bphoto/0Rg9aNOFF4qUbBDiReXKEQ/o.jpg,$$,4,1008,NY,41
+130 E Randolph St,Chicago,21,Wildberry Pancakes and Cafe,13129389777,https://s3-media2.fl.yelpcdn.com/bphoto/9ZnC8R_MgeIKWV-5IedwNg/o.jpg,$$,4.5,6228,IL,42
+1800 W Grand Ave,Chicago,22,Breakfast House,13129972400,https://s3-media2.fl.yelpcdn.com/bphoto/ewla9GxSBkIhvTmMQrBxHw/o.jpg,$$,4.5,368,IL,43
+196 E Pearson St,Chicago,23,Wildberry Pancakes and Cafe,13124700590,https://s3-media2.fl.yelpcdn.com/bphoto/zPYaOuqK8NC9ACUqmH7cOw/o.jpg,$$,4.5,526,IL,44
+355 E Ohio St,Chicago,24,Yolk - Streeterville,13128229655,https://s3-media2.fl.yelpcdn.com/bphoto/M-6vhCdTWSid4yWb3BmNug/o.jpg,$$,4,1917,IL,45
+4943 N Damen Ave,Chicago,25,Over Easy Cafe,17735062605,https://s3-media3.fl.yelpcdn.com/bphoto/sgrH0yqYFIf09MWo2jnjiw/o.jpg,$$,4.5,1356,IL,46
+7371 Melrose Ave,Los Angeles,26,Blu Jam Café,13239519191,https://s3-media4.fl.yelpcdn.com/bphoto/XE1J0GjYpoTEKbjv0ayhWA/o.jpg,$$,4,4788,CA,47
+6547 Santa Monica Blvd,Los Angeles,27,Eat This Cafe,13239992003,https://s3-media2.fl.yelpcdn.com/bphoto/9nroDfte4Py4XIbZOufpCw/o.jpg,$$,4.5,903,CA,48
+2118 Hillhurst Ave,Los Angeles,28,Cafe Los Feliz,13236647111,https://s3-media3.fl.yelpcdn.com/bphoto/5E8FO8zJwi3urDEGtRWodw/o.jpg,$$,4,784,CA,49
+7200 Melrose Ave,Los Angeles,29,Fratelli Cafe,13239382233,https://s3-media4.fl.yelpcdn.com/bphoto/d5Yg9zTEfSSrTbSVy4EASg/o.jpg,$$,4.5,919,CA,50
+317 S Broadway,Los Angeles,30,Eggslut,12136250292,https://s3-media3.fl.yelpcdn.com/bphoto/RSB5zenaNLddH6cfBd8iKQ/o.jpg,$,4,5400,CA,51
+1541 W Bryn Mawr Ave,Chicago,31,Little Bad Wolf,17739426399,https://s3-media1.fl.yelpcdn.com/bphoto/22EJD1zkqn80Ys7xU-t15A/o.jpg,$$,4.5,1296,IL,52
+145 N Dearborn St,Chicago,32,The Dearborn,13123841242,https://s3-media2.fl.yelpcdn.com/bphoto/eSXeGiq2bRUjy7KOER4jeg/o.jpg,$$,4.5,1068,IL,53
+200 N Green St,Chicago,33,Cira,13127611777,https://s3-media4.fl.yelpcdn.com/bphoto/-d527D5SU4dr7KvJYUVYdA/o.jpg,,5,6,IL,54
+1163 W 18th St,Chicago,34,Monnie Burke's,13122432410,https://s3-media3.fl.yelpcdn.com/bphoto/DDyGJfg4t69YOmUo_pRM5Q/o.jpg,$$,4.5,246,IL,55
+535 N Michigan Ave,Chicago,35,Bandera Restaurant,13126443524,https://s3-media2.fl.yelpcdn.com/bphoto/zYlaZ78v4DZbeDKPB4xGkQ/o.jpg,$$,4,1748,IL,56
+3179 Los Feliz Blvd,Los Angeles,36,The Morrison,13236671839,https://s3-media2.fl.yelpcdn.com/bphoto/fNFdhU_I6Iw7J1jM5nVmAw/o.jpg,$$,4.5,4049,CA,57
+4348 Fountain Ave,Los Angeles,37,The Kitchen,13236643663,https://s3-media2.fl.yelpcdn.com/bphoto/NOWqaV2fY1hr8vrTzdZg6w/o.jpg,$$,4,1383,CA,58
+12608 Washington Blvd,Los Angeles,38,Humble Potato,13108819498,https://s3-media3.fl.yelpcdn.com/bphoto/sfj4Gb4bc-uWysCGyWRAPQ/o.jpg,$$,4.5,548,CA,59
+1513 S Robertson Blvd,Los Angeles,39,A Food Affair,13105579795,https://s3-media2.fl.yelpcdn.com/bphoto/deMtMdGXWHGI-bHD-xKwdw/o.jpg,$$,4.5,1189,CA,60
+8611 Truxton Ave,Los Angeles,40,Truxton's American Bistro,13104178789,https://s3-media4.fl.yelpcdn.com/bphoto/rVZ0ymI4ntqcEIrFsUDvZg/o.jpg,$$,4,1305,CA,61
+956 2nd Ave,New York,41,The Smith,12126442700,https://s3-media1.fl.yelpcdn.com/bphoto/fGAZCdyPI8qil5boCzidBA/o.jpg,$$,4,2332,NY,62
+403 W 43rd St,New York,42,Bea,12126021910,https://s3-media2.fl.yelpcdn.com/bphoto/MsmtaEOOHFQrINBPLnZOUw/o.jpg,$$,4,2221,NY,63
+316 Bowery,New York,43,The Poni Room,12122540350,https://s3-media2.fl.yelpcdn.com/bphoto/U7Gft_MmiDjkJxJxjefSqQ/o.jpg,,5,10,NY,64
+166 Smith St,Brooklyn,44,Uglyduckling,17184513825,https://s3-media2.fl.yelpcdn.com/bphoto/vyH8WZkvbeWHebYYz-M8rg/o.jpg,$$,4,432,NY,65
+45 W 45th St between 5th & 6th Ave,New York,45,Valerie,12123024545,https://s3-media1.fl.yelpcdn.com/bphoto/ONswUNQ7qqqf9tJlfwVOZw/o.jpg,,4,84,NY,66
+102 Norfolk St,New York,46,La Contenta,12124324180,https://s3-media2.fl.yelpcdn.com/bphoto/FwZAyPgdKdPGQ8aAGKh3-w/o.jpg,$$,4.5,669,NY,67
+162 E Broadway,New York,47,Jajaja,16468835453,https://s3-media2.fl.yelpcdn.com/bphoto/QaIhCEp1FpU3a2teWQh6mA/o.jpg,$$,4.5,638,NY,68
+251 West 50th St,New York,48,Toloache 50,12125811818,https://s3-media4.fl.yelpcdn.com/bphoto/m5yGUnpSxMB0KaxgwwXMQA/o.jpg,$$,4,1764,NY,69
+253 Broome St,New York,49,Barrio Chino,12122286710,https://s3-media3.fl.yelpcdn.com/bphoto/8PdXnElPeE7PVXLDuU6lKg/o.jpg,$$,4,1070,NY,70
+1491 2nd Ave,New York,50,Calexico,13479675955,https://s3-media2.fl.yelpcdn.com/bphoto/1vz06ahQijodY4mxqlRG-w/o.jpg,$$,4,560,NY,71
+1835 W North Ave,Chicago,51,Las Palmas,17732894991,https://s3-media3.fl.yelpcdn.com/bphoto/5ocyybpShOumdbWo6lPhaA/o.jpg,$$,4,659,IL,72
+2914 N Clark St,Chicago,52,El Nuevo Mexicano,17735282131,https://s3-media3.fl.yelpcdn.com/bphoto/Dt5vNN08JUhAJAMsp61H9g/o.jpg,$$,4,720,IL,73
+2721 N Halsted St,Chicago,53,Mayan Palace Mexican Cuisine,17739354200,https://s3-media4.fl.yelpcdn.com/bphoto/bcPCQt_LJHuXgtpwKo0Xlg/o.jpg,$$,4,539,IL,74
+3300 W Fullerton Ave,Chicago,54,El Habanero,17732279225,https://s3-media1.fl.yelpcdn.com/bphoto/f9KxWx2RO1osFu8H0w4IjQ/o.jpg,$,4.5,418,IL,75
+2829 W Armitage Ave,Chicago,55,Dos Urban Cantina,17736616452,https://s3-media4.fl.yelpcdn.com/bphoto/Gn9QPif5jeB51pcllqIueg/o.jpg,$$,4.5,320,IL,76
+3014 W Olympic Blvd,Los Angeles,56,Guelaguetza Restaurante,12134270608,https://s3-media3.fl.yelpcdn.com/bphoto/5c8uukPfBB5h6psgPjYT6g/o.jpg,$$,4,1929,CA,77
+4651 W Adams Blvd,Los Angeles,57,Taqueria Los Anaya,13237314070,https://s3-media1.fl.yelpcdn.com/bphoto/T6KacOTiaa2TudDlU2lykQ/o.jpg,$$,4.5,1059,CA,78
+5450 Santa Monica Blvd,Los Angeles,58,Tlayuda La Restaurant,12132614667,https://s3-media4.fl.yelpcdn.com/bphoto/EGu5l3ycoQ52i8FW6iSHXQ/o.jpg,$$,4.5,660,CA,79
+3413 Cahuenga Blvd W,Los Angeles,59,Mercado Hollywood,13235122500,https://s3-media2.fl.yelpcdn.com/bphoto/o_Oi0Vj3CysoKGDj7ONXGg/o.jpg,$$,4.5,613,CA,80
+7910 W 3rd St,Los Angeles,60,Mercado Los Angeles,13239440947,https://s3-media2.fl.yelpcdn.com/bphoto/A7nK1tBdYB434UtiTjMeHg/o.jpg,$$,4,1046,CA,81
+1726 N Vermont Ave,Los Angeles,61,Loupiotte Kitchen,,https://s3-media4.fl.yelpcdn.com/bphoto/wjzgJwEaz4vG0ocz4BI0ng/o.jpg,,4.5,16,CA,82
+1712 Colorado Blvd,Los Angeles,62,Cafe Beaujolais,13232555111,https://s3-media2.fl.yelpcdn.com/bphoto/MZ0MtLsTi7QIvkIaCVw4gw/o.jpg,$$,4.5,1349,CA,83
+418 /420 S Spring St,Los Angeles,63,Le Petit Paris,12132174445,https://s3-media3.fl.yelpcdn.com/bphoto/vup2zs7GcmUfVqMvcHpfow/o.jpg,$$$,4,1055,CA,84
+624 S La Brea Ave,Los Angeles,64,République,13103626115,https://s3-media4.fl.yelpcdn.com/bphoto/Xy6oJ25E2QUzw_zsBD-dhA/o.jpg,$$,4,4760,CA,85
+5665 Melrose Ave,Los Angeles,65,Le Petit Marché,13233806557,https://s3-media1.fl.yelpcdn.com/bphoto/i_ceHhpdKGAs66pGpOhfNw/o.jpg,,4.5,116,CA,86
+1958 N Damen Ave,Chicago,66,Le Bouchon,17738626600,https://s3-media1.fl.yelpcdn.com/bphoto/VZPImQoCDEDBvMCW3MQ79Q/o.jpg,$$$,4,512,IL,87
+100 W Monroe St,Chicago,67,Cochon Volant Brasserie,13127546560,https://s3-media1.fl.yelpcdn.com/bphoto/saV_Th2DU62NOeNvnYR17A/o.jpg,$$,4,656,IL,88
+615 W Randolph St,Chicago,68,Avec,13123772002,https://s3-media3.fl.yelpcdn.com/bphoto/VcTpfsRDyPEgohm5HM3ICQ/o.jpg,$$$,4.5,2048,IL,89
+2100 N Halsted St,Chicago,69,Chez Moi,17738712100,https://s3-media4.fl.yelpcdn.com/bphoto/h-7aAZGx1cN8ys-veyN9Ew/o.jpg,$$,4,355,IL,90
+11 E Walton St,Chicago,70,Margeaux Brasserie,13126251324,https://s3-media3.fl.yelpcdn.com/bphoto/5wNZof8kMze66iCimN7SmQ/o.jpg,$$$,4.5,141,IL,91
+22 W 8th St,New York,71,Amélie,12125332962,https://s3-media4.fl.yelpcdn.com/bphoto/cSDgVuPMnJgMLTrTNSEXug/o.jpg,$$,4.5,2423,NY,92
+558 Broome St,New York,72,La Sirene,12129253061,https://s3-media4.fl.yelpcdn.com/bphoto/RsDpYmM0azJa4f7cot5Z0g/o.jpg,$$$,4.5,1562,NY,93
+163 East 33rd St,New York,73,Le Parisien,12128895489,https://s3-media4.fl.yelpcdn.com/bphoto/o-2sMdEwm9ElaF9y7S_7bg/o.jpg,$$,4,903,NY,94
+103 Ave B,New York,74,PMF Pardon My French,12123589683,https://s3-media3.fl.yelpcdn.com/bphoto/X8eWP2AqEiktrGTr3th8JA/o.jpg,$$,4,866,NY,95
+99 7th Ave S,New York,75,Boucherie West Village,12128371616,https://s3-media2.fl.yelpcdn.com/bphoto/-5TXMVrjARsqKQHDg-hKbQ/o.jpg,$$$,4.5,986,NY,96
+333 S Alameda St,Los Angeles,76,Shojin Downtown,12136170305,https://s3-media3.fl.yelpcdn.com/bphoto/_G1hv1eISTWnWKlNqKB-og/o.jpg,$$,4,1681,CA,97
+1700 Sunset Blvd,Los Angeles,77,Sage Vegan Bistro - Echo Park,12139891718,https://s3-media3.fl.yelpcdn.com/bphoto/SWAqtahsmlDj0JeyIYwcJw/o.jpg,$$,4,2025,CA,98
+1818 E 1st St,Los Angeles,78,un solo sol,13232698680,https://s3-media4.fl.yelpcdn.com/bphoto/sRCvVu3_-fQFNOh6dWBAnw/o.jpg,$$,4.5,561,CA,99
+2135 W Sunset Blvd,Los Angeles,79,Elf Café,12134846829,https://s3-media2.fl.yelpcdn.com/bphoto/UImY1kTsUseew8DmZ8H2GQ/o.jpg,$$,4.5,722,CA,100
+4222 W Pico Blvd,Los Angeles,80,The Grain Cafe,13239314034,https://s3-media3.fl.yelpcdn.com/bphoto/6mKqgAOOVdDjr1qM1N2RRg/o.jpg,$$,4.5,776,CA,101
+2311 W North Ave,Chicago,81,Handlebar,17733849546,https://s3-media3.fl.yelpcdn.com/bphoto/kuxyTzQzy0UMDP-FVvIEHQ/o.jpg,$$,4,1327,IL,102
+3315 W Armitage Ave,Chicago,82,Ground Control,17737729446,https://s3-media2.fl.yelpcdn.com/bphoto/92Qas089xJ4V82jTqQwBjQ/o.jpg,$$,4,346,IL,103
+700 N Michigan Ave,Chicago,83,ALTHEA,13125253400,https://s3-media1.fl.yelpcdn.com/bphoto/XGATXQxLaZdv5uyxP2IgdQ/o.jpg,,4.5,47,IL,104
+2333 N Milwaukee Ave,Chicago,84,The Chicago Diner,17732523211,https://s3-media2.fl.yelpcdn.com/bphoto/G8KH-ZZa-cS-5W8kUc4yoA/o.jpg,$$,4.5,780,IL,105
+2889 N Milwaukee Ave,Chicago,85,Moonlight Vulture,17736988842,https://s3-media3.fl.yelpcdn.com/bphoto/bJ_DbT7pjqo-KzWalBMG2A/o.jpg,$,4.5,83,IL,106
+162 E Broadway,New York,86,Jajaja,16468835453,https://s3-media2.fl.yelpcdn.com/bphoto/QaIhCEp1FpU3a2teWQh6mA/o.jpg,$$,4.5,638,NY,107
+55 St Nicholas Ave,New York,87,Seasoned Vegan,12122220092,https://s3-media2.fl.yelpcdn.com/bphoto/4cA_jzY4x6IPWcB79n6aSQ/o.jpg,$$,4,997,NY,108
+328 E 6th St,New York,88,Spicy Moon,16464298471,https://s3-media3.fl.yelpcdn.com/bphoto/5xj4ZyYiECeK7Z3sFmOwCA/o.jpg,$$,4.5,96,NY,109
+25 1st Ave,New York,89,Divya's Kitchen,12124774834,https://s3-media3.fl.yelpcdn.com/bphoto/Gw77o_47JV4UeDHDDVv5Uw/o.jpg,$$,4.5,281,NY,110
+140 W 4th St,New York,90,Red Bamboo,12122601212,https://s3-media3.fl.yelpcdn.com/bphoto/F7newcII99zOvOH0YFRAvw/o.jpg,$$,4,1640,NY,111
+3470 W 6th St,Los Angeles,91,Hangari Bajirak Kalguksu,12133882326,https://s3-media3.fl.yelpcdn.com/bphoto/-UUR55Fq-jAV3RA3zzoSMQ/o.jpg,$$,4.5,1438,CA,112
+3827 Sunset Blvd,Los Angeles,92,We Have Noodles,13232848726,https://s3-media2.fl.yelpcdn.com/bphoto/BK4_XhUDik86xkcoXPxYpQ/o.jpg,$$,4.5,184,CA,113
+329 E 1st St,Los Angeles,93,Marugame Monzo,12133469762,https://s3-media3.fl.yelpcdn.com/bphoto/IJrq3xwEV94BjX0duzl31g/o.jpg,$$,4.5,3315,CA,114
+8054 W 3rd St,Los Angeles,94,Tasty Noodle House,13232723933,https://s3-media3.fl.yelpcdn.com/bphoto/iBSg39wV96BibbZxhKjHoA/o.jpg,$$,4,210,CA,115
+3500 Wilshire Blvd,Los Angeles,95,Ling Ho Chinese Cuisine,12136747273,https://s3-media1.fl.yelpcdn.com/bphoto/6t__-nENIgiEx7S7uepRgQ/o.jpg,,5,4,CA,116
+3235 S Halsted St,Chicago,96,Min's Noodle House,13124652999,https://s3-media1.fl.yelpcdn.com/bphoto/pe0if1Wy-e1Sgr26fKWtPQ/o.jpg,$$,4,235,IL,117
+1333 E 57th St,Chicago,97,Noodles Etc,17736842801,https://s3-media1.fl.yelpcdn.com/bphoto/SagpP8etRAVyoUIB7MTWCQ/o.jpg,$,3.5,287,IL,118
+2334 S Wentworth,Chicago,98,Yummy Yummy Noodles,13128429880,https://s3-media3.fl.yelpcdn.com/bphoto/_xbVTlkrvPKmO5igHkxmnw/o.jpg,$,4.5,139,IL,119
+2218 N Lincoln Ave,Chicago,99,Xi'an Dynasty Cuisine,17739047253,https://s3-media4.fl.yelpcdn.com/bphoto/l09vs6CRgoQLoM5QNB9p3A/o.jpg,$$,5,26,IL,120
+2339 N Milwaukee Ave,Chicago,100,Three Wheels Noodle,17733608288,https://s3-media4.fl.yelpcdn.com/bphoto/gxvwlYYXEwB49NZ_AWY5kA/o.jpg,,5,32,IL,121
+40 Bowery St,New York,101,88 Lan Zhou Handmade Noodle,16466830939,https://s3-media1.fl.yelpcdn.com/bphoto/18OSugPW766TSqMxuqc5Ww/o.jpg,$,4,1638,NY,122
+1 Doyers St,New York,102,Tasty Hand-Pulled Noodles,12127911817,https://s3-media3.fl.yelpcdn.com/bphoto/on5kwb77QO9cS78kxllnOA/o.jpg,$,4,1499,NY,123
+309 E 5th St,New York,103,Jiang Diner,,https://s3-media1.fl.yelpcdn.com/bphoto/h8IH0qTI0xDfQ1_KsROsaw/o.jpg,,4,13,NY,124
+425 W 15th St,New York,104,Very Fresh Noodles,,https://s3-media4.fl.yelpcdn.com/bphoto/XR-VxOQvICyCqCl3sqwYNA/o.jpg,$$,4.5,749,NY,125
+342 E 6th St,New York,105,Raku,12122281324,https://s3-media4.fl.yelpcdn.com/bphoto/GEbZnH1jR4n7D5WOJ3urPg/o.jpg,$$,4.5,850,NY,126
+8408 W 3rd St,Los Angeles,106,COD Restaurant,13236589188,https://s3-media1.fl.yelpcdn.com/bphoto/SkBxhIj4slXFmLBuuSW9FQ/o.jpg,$$$,4.5,596,CA,127
+529 S Central Ave,Los Angeles,107,Fisherman's Outlet,12136277231,https://s3-media2.fl.yelpcdn.com/bphoto/t_EM5YoVYRwO5jRKGCwNUw/o.jpg,$$,4,1062,CA,128
+544 S Grand Ave,Los Angeles,108,Water Grill- Los Angeles,12138910900,https://s3-media4.fl.yelpcdn.com/bphoto/lNP5AaJspM80JaBdBJgj_w/o.jpg,$$$,4,1931,CA,129
+1190 Nagoya Way,San Pedro,109,San Pedro Fish Market and Restaurant,13108324251,https://s3-media2.fl.yelpcdn.com/bphoto/A73V8RO1LCOOv88kLlUfbA/o.jpg,$$,3.5,1433,CA,130
+3916 Wilshire Blvd,Los Angeles,110,DaeBuDo,12133521300,https://s3-media3.fl.yelpcdn.com/bphoto/TIMrLoQm917VJYxq_NAKTg/o.jpg,$$,4.5,148,CA,131
+95 1st Ave,New York,111,Upstate,16467915400,https://s3-media1.fl.yelpcdn.com/bphoto/RvnUVU7MF7DT0RzNL-EebQ/o.jpg,$$,4.5,1699,NY,132
+84-20 37th Ave,Jackson Heights,112,Oceanic Boil,19292966338,https://s3-media1.fl.yelpcdn.com/bphoto/aF45SWZgZoZsVsBXgEgDig/o.jpg,$$,4.5,397,NY,133
+92 Rivington St,New York,113,Chamusca,19174727659,https://s3-media4.fl.yelpcdn.com/bphoto/lZ1nAVYBk_iiHCUvwWfEcg/o.jpg,,5,20,NY,134
+139 Chrystie St,New York,114,The Boil,12129258815,https://s3-media3.fl.yelpcdn.com/bphoto/Y8Zgcd9DTKb_MGfjSBbh3g/o.jpg,$$,4.5,1760,NY,135
+95-25 Queens Blvd,Rego Park,115,Lobster House All You Can Eat Seafood,17188968811,https://s3-media3.fl.yelpcdn.com/bphoto/HfKLjliYiIgsO2leCW321A/o.jpg,$$$,3.5,332,NY,136
+3343 N Clark St,Chicago,116,Lowcountry Lakeview,18888838375,https://s3-media2.fl.yelpcdn.com/bphoto/5z6xwJPIuajlBxt4mOYHQA/o.jpg,$$,4.5,521,IL,137
+2110 W Division St,Chicago,117,Wixter Market,13122482800,https://s3-media4.fl.yelpcdn.com/bphoto/XaeBkhvVl9rpZ5u7A-nfCA/o.jpg,$$,5,55,IL,138
+21 E Hubbard St,Chicago,118,Shaw's Crab House,13125272722,https://s3-media1.fl.yelpcdn.com/bphoto/h6UZdjTaOP9wOlsW51Q7UQ/o.jpg,$$$,4,2021,IL,139
+2529 N Milwaukee Ave,Chicago,119,The Crab Pad,17733608332,https://s3-media3.fl.yelpcdn.com/bphoto/uWB1yIE-Co8tcJrRPhe8_Q/o.jpg,$$,4.5,406,IL,140
+5665 N Lincoln Ave,Chicago,120,The Angry Crab,17737846848,https://s3-media1.fl.yelpcdn.com/bphoto/GprM9i2_yGuG5D_IFjGZKg/o.jpg,$$,4,846,IL,141
+34 W 35th St,New York,121,Barn Joo 35,12125644430,https://s3-media1.fl.yelpcdn.com/bphoto/1R5CgYlK5qGUhKZOvZThKw/o.jpg,$$,4.5,1379,NY,142
+22 W 32nd St,New York,122,Jongro BBQ,12124732233,https://s3-media3.fl.yelpcdn.com/bphoto/zTVtLZtqwAFqYPXwuk1t5w/o.jpg,$$,4,1554,NY,143
+202 W14th St,New York,123,Zusik,16463705331,https://s3-media3.fl.yelpcdn.com/bphoto/FSt1wAilXlUh9iKbs5xWBQ/o.jpg,,5,5,NY,144
+170 Smith St,Brooklyn,124,SSAM,19179091248,https://s3-media3.fl.yelpcdn.com/bphoto/BwBhsK1xpDbQmHOWnfuf0w/o.jpg,$$,4,357,NY,145
+11 E 32nd St,New York,125,Bangia,12126796790,https://s3-media3.fl.yelpcdn.com/bphoto/mXv72GFEMqAJPmvxHxcq-g/o.jpg,$$,4,311,NY,146
+2017 S Wells St,Chicago,126,Daebak Korean BBQ,13126313913,https://s3-media3.fl.yelpcdn.com/bphoto/dbGfWEH0ExB2m20IBBkUNA/o.jpg,$$,4,381,IL,147
+1460 W Chicago Ave,Chicago,127,jeong,,https://s3-media3.fl.yelpcdn.com/bphoto/4oXCiiRcTsuAIwPIrg0wBA/o.jpg,,4.5,28,IL,148
+939 N Ashland Ave,Chicago,128,Kimchi Pop,18728024424,https://s3-media1.fl.yelpcdn.com/bphoto/3jM5iZg3kAhaA9SIHiIzrA/o.jpg,$$,4.5,87,IL,149
+1840 N Damen Ave,Chicago,129,En Hakkore,17737729880,https://s3-media3.fl.yelpcdn.com/bphoto/5LMPIu2EyJThalqxPMS6CA/o.jpg,$$,4.5,672,IL,150
+1265 N Milwaukee Ave,Chicago,130,Iron Age Korean Steakhouse,17736977622,https://s3-media3.fl.yelpcdn.com/bphoto/XH8FKxVjDNRvY4qdqJlnOQ/o.jpg,$$,4,61,IL,151
+5115 Wilshire Blvd,Los Angeles,131,Genwa Korean BBQ,13235490760,https://s3-media4.fl.yelpcdn.com/bphoto/xqIoya9x08vNRB3mZPV6Tg/o.jpg,$$,4.5,2720,CA,152
+3465 W 6th St,Los Angeles,132,Kang Ho-dong Baekjeong,12133849678,https://s3-media3.fl.yelpcdn.com/bphoto/izhJQsGE5LZAHQb-WmNwSA/o.jpg,$$,4.5,4035,CA,153
+4163 W 5th St,Los Angeles,133,Han Bat Sul Lung Tang,12133839499,https://s3-media2.fl.yelpcdn.com/bphoto/cFhkF5UDhf1JYn_QXWZm_w/o.jpg,$$,4.5,2019,CA,154
+3033 W 6th St,Los Angeles,134,Yuk Dae Jang,12133521331,https://s3-media2.fl.yelpcdn.com/bphoto/5y-hXEjEBMMuGJFopTuvFQ/o.jpg,$$,4.5,389,CA,155
+3470 W 6th St,Los Angeles,135,Hangari Bajirak Kalguksu,12133882326,https://s3-media3.fl.yelpcdn.com/bphoto/-UUR55Fq-jAV3RA3zzoSMQ/o.jpg,$$,4.5,1438,CA,156
+19 Old Fulton St,Brooklyn,136,Juliana's Pizza,17185966700,https://s3-media1.fl.yelpcdn.com/bphoto/7JtwTxhWHf3YS70Ss_CfxA/o.jpg,$$,4.5,1941,NY,157
+27 Prince St,New York,137,Prince Street Pizza,12129664100,https://s3-media3.fl.yelpcdn.com/bphoto/ZAukOyv530w4KjOHC5YY1w/o.jpg,$,4.5,2672,NY,158
+32 Spring St,New York,138,Lombardi's Pizza,12129417994,https://s3-media1.fl.yelpcdn.com/bphoto/UZ6V_hobp1KpYDPOHNoCKw/o.jpg,$$,4,5828,NY,159
+17 Clinton St,New York,139,Rizzo's Fine Pizza,16464541262,https://s3-media3.fl.yelpcdn.com/bphoto/r4OPoXMhNig7p94wdW9yOA/o.jpg,$$,4.5,674,NY,160
+254 S 2nd St,Brooklyn,140,L'industrie Pizzeria,17185990002,https://s3-media2.fl.yelpcdn.com/bphoto/SRL_RztRRUijgQwt67daGw/o.jpg,$,5,405,NY,161
+439 N Wells St,Chicago,141,Lou Malnati's Pizzeria,13128289800,https://s3-media1.fl.yelpcdn.com/bphoto/cv0OrGAkBn4qdFOm3zuFjQ/o.jpg,$$,4,5391,IL,162
+2207 N Clybourn Ave,Chicago,142,Pequod's Pizzeria,17733271512,https://s3-media2.fl.yelpcdn.com/bphoto/jlB3XA4XnnoU6omD9TSk5Q/o.jpg,$$,4,5304,IL,163
+1252 N Damen Ave,Chicago,143,Craft Pizza,17734427238,https://s3-media3.fl.yelpcdn.com/bphoto/Jn-9iXHPpdnF4VUecs_-tA/o.jpg,$$,4.5,221,IL,164
+1927 W North Ave,Chicago,144,Piece Brewery and Pizzeria,17737724422,https://s3-media1.fl.yelpcdn.com/bphoto/aIALgJSmafrAcJObw0_JIg/o.jpg,$$,4,3415,IL,165
+2101 W North Ave,Chicago,145,Knead,17739746004,https://s3-media1.fl.yelpcdn.com/bphoto/msygrK7fI4va-HZYMhnyvQ/o.jpg,$$,4.5,83,IL,166
+4959 Santa Monica Blvd,Los Angeles,146,DeSano Pizza Bakery,13239137000,https://s3-media2.fl.yelpcdn.com/bphoto/51Ew_R8Cpk1MlA3jZXaXqA/o.jpg,$$,4.5,1036,CA,167
+131 N Larchmont Blvd,Los Angeles,147,Village Pizzeria,13234655566,https://s3-media4.fl.yelpcdn.com/bphoto/mixHOaVxuf6cPCSw4hVjCA/o.jpg,$$,4,1387,CA,168
+3281 Wilshire Blvd,Los Angeles,148,King Of New York Pizzeria Pub,12133893500,https://s3-media1.fl.yelpcdn.com/bphoto/eVCtRuLfvxVuGYzT_NE8NA/o.jpg,$,3.5,523,CA,169
+3900 Wilshire Blvd,Los Angeles,149,Koreatown Pizza Company,12137380077,https://s3-media2.fl.yelpcdn.com/bphoto/KaaplsphyGcPhfVFGjap7g/o.jpg,$$,4,201,CA,170
+5176 Wilshire Blvd,Los Angeles,150,Apollonia's Pizzeria,13239372823,https://s3-media1.fl.yelpcdn.com/bphoto/7y6Mbz33wqxKfR_zq_X-4A/o.jpg,$$,4,351,CA,171
+1663 South La Cienega Blvd,Los Angeles,151,Oasis Mediterranean Cuisine,13102762747,https://s3-media1.fl.yelpcdn.com/bphoto/NvZFuVxpo6M_GFnXrRi87w/o.jpg,$$,5,223,CA,172
+7458 Beverly Blvd,Los Angeles,152,Open Sesame,13235251698,https://s3-media4.fl.yelpcdn.com/bphoto/3OIxOnMf1MXJvx9rwcWasw/o.jpg,$$,4,623,CA,173
+2771 W Pico Blvd,Los Angeles,153,Papa Cristo's,13237372970,https://s3-media2.fl.yelpcdn.com/bphoto/jq-ORXVPKab0nkciZVEhug/o.jpg,$$,4.5,1803,CA,174
+1727 N Vermont Ave,Los Angeles,154,Sidewalk Grill,13236693354,https://s3-media2.fl.yelpcdn.com/bphoto/vqgcfE-mNDm694TkMQU9sg/o.jpg,$$,4.5,842,CA,175
+211 E Broadway,Glendale,155,Raffi's Place,18182407411,https://s3-media1.fl.yelpcdn.com/bphoto/YYF_VvGCtd5pR4qmlwZtSg/o.jpg,$$,4.5,3957,CA,176
+302 N Green St,Chicago,156,Aba,17736451400,https://s3-media2.fl.yelpcdn.com/bphoto/e8UFLVRdRHzdL6ca308aIA/o.jpg,$$$,4.5,376,IL,177
+74 W Illinois St,Chicago,157,Ēma,13125275586,https://s3-media1.fl.yelpcdn.com/bphoto/TCuKXxl15ZpzyeCZZpl07Q/o.jpg,$$,4.5,732,IL,178
+200 N Green St,Chicago,158,Cira,13127611777,https://s3-media4.fl.yelpcdn.com/bphoto/-d527D5SU4dr7KvJYUVYdA/o.jpg,,5,6,IL,179
+1534 N Milwaukee,Chicago,159,Rumi Middle Eastern Grill,17736665119,https://s3-media1.fl.yelpcdn.com/bphoto/SRWAGEyAvg2wY98XhpwJiQ/o.jpg,$,4.5,197,IL,180
+1625 N Halsted St,Chicago,160,Dawali Mediterranean Kitchen,13129445800,https://s3-media4.fl.yelpcdn.com/bphoto/SKufTOx8t6PKvcJXV2fUnw/o.jpg,$$,4,499,IL,181
+133 Wythe Ave,Brooklyn,161,Cafe Mogador,17184869222,https://s3-media3.fl.yelpcdn.com/bphoto/zbE8vsLW5Flpt3GMW_4UOA/o.jpg,$$,4.5,1072,NY,182
+581 Hudson St,New York,162,Mémé Mediterranean,16466928450,https://s3-media2.fl.yelpcdn.com/bphoto/S_AGzj9dc-vhPPjGKB6BcA/o.jpg,$$,4,555,NY,183
+202 Mott St,New York,163,Balzem,16468377033,https://s3-media1.fl.yelpcdn.com/bphoto/h3NWzD0mw_JJ8F03XowUaA/o.jpg,$$,4,376,NY,184
+101 St Marks Pl,New York,164,Cafe Mogador,12126772226,https://s3-media3.fl.yelpcdn.com/bphoto/Mtf6qE5Q4ira-soC6mts8w/o.jpg,$$,4,1792,NY,185
+88 Reade St,New York,165,Nish Nush,12129641318,https://s3-media1.fl.yelpcdn.com/bphoto/OMGpw5j96GX414mh61Lxxw/o.jpg,$$,4.5,668,NY,186
+691 8th Ave,New York,166,Shake Shack,16464350135,https://s3-media3.fl.yelpcdn.com/bphoto/X-WfDGYiYmSuGMlaZpnFtA/o.jpg,$$,4,2966,NY,187
+6229 Roosevelt Ave,Woodside,167,Jollibee,17184264445,https://s3-media2.fl.yelpcdn.com/bphoto/14WJ915LMUs9mhlZsjxplw/o.jpg,$,3.5,474,NY,188
+215 Murray St,New York,168,Shake Shack,16465454600,https://s3-media1.fl.yelpcdn.com/bphoto/vuK8-Wdim4tXASfalJ0Nvw/o.jpg,$$,4,903,NY,189
+409 Fulton St,Brooklyn,169,Shake Shack,17183077599,https://s3-media1.fl.yelpcdn.com/bphoto/lsM1oTm23bg7y5AZmFrNZg/o.jpg,$$,4,820,NY,190
+110 W 40th St,New York,170,Kobeyaki,12123911600,https://s3-media3.fl.yelpcdn.com/bphoto/AD0yQgQTqauHSdURzjQkHQ/o.jpg,$$,3.5,282,NY,191
+6750 W Sunset Blvd,Los Angeles,171,Chick-fil-A,13234642455,https://s3-media3.fl.yelpcdn.com/bphoto/jEck9pFYdGmL5gtQArTC7g/o.jpg,$,3.5,708,CA,192
+9149 S Sepulveda Blvd,Los Angeles,172,In-N-Out Burger,18007861000,https://s3-media1.fl.yelpcdn.com/bphoto/ETH8R4dCjDl_Tjo1KFKLaQ/o.jpg,$,4,1416,CA,193
+3758 S Figueroa St,Los Angeles,173,Chick-fil-A,12137478721,https://s3-media4.fl.yelpcdn.com/bphoto/KMhomxmGnQ670Lq4TvgQBA/o.jpg,$,4,390,CA,194
+7009 Sunset Blvd,Hollywood,174,In-N-Out Burger,18007861000,https://s3-media1.fl.yelpcdn.com/bphoto/LwUTvq9LoPHTU_bOS2_Wug/o.jpg,$,4,1520,CA,195
+3850 S Figueroa St,Los Angeles,175,Figueroa Philly Cheese Steak,12137489073,https://s3-media2.fl.yelpcdn.com/bphoto/eyX7Qn0-unMQE0vPGCv8WA/o.jpg,$$,4.5,1022,CA,196
+30 E Chicago Ave,Chicago,176,Chick-fil-A,13122668888,https://s3-media2.fl.yelpcdn.com/bphoto/BJtzXr6fdL0pjst52wRigw/o.jpg,$,4,373,IL,197
+66 E Ohio St,Chicago,177,Shake Shack,13126671701,https://s3-media2.fl.yelpcdn.com/bphoto/9UaGSq0cwjn3z55SVNnG9w/o.jpg,$$,3.5,1118,IL,198
+600 N Clark,Chicago,178,McDonald's,13128670455,https://s3-media4.fl.yelpcdn.com/bphoto/D5HAOJO3VFAgbS4AFoh-ew/o.jpg,$,3,358,IL,199
+2622 N Clark St,Chicago,179,The Wiener's Circle,17734777444,https://s3-media1.fl.yelpcdn.com/bphoto/-9RAO9apY8OP3Mc4D1AYUQ/o.jpg,$,3.5,934,IL,200
+3304 N Western Ave,Chicago,180,Meatheads,17735255300,https://s3-media3.fl.yelpcdn.com/bphoto/bZTP_EluzOXmq7dFo652sQ/o.jpg,$,4,154,IL,201
+3331 W 8th St,Los Angeles,181,R Bar,12133877227,https://s3-media3.fl.yelpcdn.com/bphoto/uq6rRSVIxbV_bdx_CX2Wtw/o.jpg,$$,4,597,CA,202
+4427 W Sunset Blvd,Los Angeles,182,Tiki-Ti Cocktail Lounge,13236699381,https://s3-media2.fl.yelpcdn.com/bphoto/UwwPtsvkz00dNU63M56fTA/o.jpg,$$,4.5,845,CA,203
+4574 Beverly Blvd,Los Angeles,183,Paper Tiger Bar,13238443716,https://s3-media4.fl.yelpcdn.com/bphoto/lt6bk_cW8k2A5cubSU5nUw/o.jpg,$$,4,128,CA,204
+7465 Melrose Ave,Los Angeles,184,Melrose Umbrella,13239510709,https://s3-media2.fl.yelpcdn.com/bphoto/L5GMSR9QFAPmStgVP-mX9g/o.jpg,$$,4,443,CA,205
+6245 Hollywood Blvd,Los Angeles,185,Frolic Room,13234625890,https://s3-media4.fl.yelpcdn.com/bphoto/8NvDc1OeBNg72IWB4orY9w/o.jpg,$,4,423,CA,206
+230 W Kinzie St,Chicago,186,The Library,13124649544,https://s3-media3.fl.yelpcdn.com/bphoto/PMp03RaMZ6V3RHBX7LUItw/o.jpg,$$,4.5,102,IL,207
+3281 W Armitage Ave,Chicago,187,Best Intentions,13128181254,https://s3-media1.fl.yelpcdn.com/bphoto/0hkVCjv1jXCbCL-osv4aMw/o.jpg,$$,4,116,IL,208
+2125 W Division St,Chicago,188,Queen Mary Tavern,17736973522,https://s3-media2.fl.yelpcdn.com/bphoto/UK8Y1y4yt5po724RszRzUw/o.jpg,$$,4.5,75,IL,209
+435 N Clark St,Chicago,189,Three Dots and a Dash,13126104220,https://s3-media4.fl.yelpcdn.com/bphoto/93z5BOe9G_5BpRkqjzRW2A/o.jpg,$$,4,2840,IL,210
+2771 N Lincoln Ave,Chicago,190,Delilah's,17734722771,https://s3-media2.fl.yelpcdn.com/bphoto/0qM5oGQQamkczrXELnKKmA/o.jpg,$,4.5,485,IL,211
+320 Van Brunt St,Brooklyn,191,San Pedro,17185763916,https://s3-media1.fl.yelpcdn.com/bphoto/8hvLeRU96ZtpqatgAAY-HQ/o.jpg,,5,1,NY,212
+30 Water St,New York,192,The Dead Rabbit,16464227906,https://s3-media2.fl.yelpcdn.com/bphoto/_4T5R0HHhASROheby-TXDA/o.jpg,$$,4,1410,NY,213
+29 Adams St,Dumbo,193,The Lighthouse,16463423033,https://s3-media3.fl.yelpcdn.com/bphoto/F92QSgcbrApLW19bp8tx5Q/o.jpg,$$,4.5,9,NY,214
+48 W 17th St,New York,194,Raines Law Room,,https://s3-media2.fl.yelpcdn.com/bphoto/CHWNi0sxLuPRDs39PP834A/o.jpg,$$$,4.5,1392,NY,215
+158 Lafayette St,New York,195,The Ship,12122198496,https://s3-media2.fl.yelpcdn.com/bphoto/aR-_vRSlhIweJdDoE3nTcw/o.jpg,$$,4,305,NY,216
+1200 Getty Center Dr,Los Angeles,196,The Restaurant at The Getty Center,13104406810,https://s3-media2.fl.yelpcdn.com/bphoto/DtGLYMgvl6fLB6Nz5lj-0Q/o.jpg,$$$,4,565,CA,217
+101 Pine Ave,Long Beach,197,L'Opera,15624910066,https://s3-media3.fl.yelpcdn.com/bphoto/7bnf4Z91nnmHMdIj7MaJ6g/o.jpg,$$$,4,550,CA,218
+305 N Harbor Blvd,Fullerton,198,The Cellar,17145255682,https://s3-media3.fl.yelpcdn.com/bphoto/EkAs1x1kZPPLTnTn9DxUbw/o.jpg,$$$,4,1171,CA,219
+1580 Disneyland Dr,Anaheim,199,Catal Restaurant,17147744442,https://s3-media2.fl.yelpcdn.com/bphoto/OXsBo2_ExMuOTZ3U7AquIA/o.jpg,$$$,4,1612,CA,220
+Disney California Adventure Park Carthay Cir,Anaheim,200,Carthay Circle Restaurant,17147814565,https://s3-media2.fl.yelpcdn.com/bphoto/tCpZFXD1QNRnEicaQ9C4mQ/o.jpg,$$$,4,1641,CA,221
+2958 W Irving Park Rd,Chicago,201,Raisu Japanese Fine Dining,17739617299,https://s3-media3.fl.yelpcdn.com/bphoto/I_RgbUGweTU84sORm-gtog/o.jpg,$$$,4.5,115,IL,222
+2244 W Devon Ave,Chicago,202,Usmania Fine Dining,17732621900,https://s3-media4.fl.yelpcdn.com/bphoto/pyvf72ZSeDhMq9ZMonxSBA/o.jpg,$$,3,204,IL,223
+2501 W Devon Ave,Chicago,203,Charminar Fine Dining,17735086766,https://s3-media1.fl.yelpcdn.com/bphoto/s93fuNmrYvdUl5aHE9NQYg/o.jpg,$$$,3.5,9,IL,224
+651 Elton Ave,Bronx,204,Fine Style Dining,13472702370,https://s3-media3.fl.yelpcdn.com/bphoto/None/o.jpg,,4,2,NY,225
+100 E 63rd St,New York,205,Vaucluse,16468692300,https://s3-media4.fl.yelpcdn.com/bphoto/4MCbjPJiLr9zhq6scgO5ug/o.jpg,$$$$,4,221,NY,226
+27 W 24th St,New York,206,Junoon,12124902100,https://s3-media4.fl.yelpcdn.com/bphoto/iG6DrgsDb2ln2F3nJnZc-Q/o.jpg,$$$,3.5,1350,NY,227
+1700 W Elizabeth Ave,Linden,207,III Amici Ristorante,19088620020,https://s3-media3.fl.yelpcdn.com/bphoto/Q3mOibFSBRtI5bctWi4Pjw/o.jpg,$$,3.5,58,NJ,228
+The Carltun,East Meadow,208,The Palm Court at The Carltun,15165420700,https://s3-media2.fl.yelpcdn.com/bphoto/Yz5Orsr_4kFtMOA-kxFj9Q/o.jpg,$$$,4,47,NY,229
+8 W 18th St,New York,209,Ootoya Chelsea,12122550018,https://s3-media2.fl.yelpcdn.com/bphoto/W8ZWQDEq3e9FjiRZwRNRNg/o.jpg,$$,4,1286,NY,230
+342 E 6th St,New York,210,Raku,12122281324,https://s3-media4.fl.yelpcdn.com/bphoto/GEbZnH1jR4n7D5WOJ3urPg/o.jpg,$$,4.5,850,NY,231
+53 W 35th St,New York,211,Izakaya MEW,16463689384,https://s3-media4.fl.yelpcdn.com/bphoto/Iix5fXx6WGqv-G2gyENd4A/o.jpg,$$,4,2027,NY,232
+108 E 4th St,New York,212,Benemon,12126143006,https://s3-media2.fl.yelpcdn.com/bphoto/B-_lF8sP0pLsAiuvxZFjLQ/o.jpg,$$,4.5,469,NY,233
+118 Madison Ave,New York,213,nonono,16467073227,https://s3-media4.fl.yelpcdn.com/bphoto/yhZYzx5cnn8SFFF8eZdRHw/o.jpg,$$,4.5,284,NY,234
+5484 Wilshire Blvd,Los Angeles,214,Yuko Kitchen,13239334020,https://s3-media2.fl.yelpcdn.com/bphoto/_ldOyQ3jOBoqxjYnR_Yupg/o.jpg,$$,4.5,1446,CA,235
+2903 Sunset Blvd,Los Angeles,215,いざかや おせん- IZAKAYA OSEN,13239282220,https://s3-media1.fl.yelpcdn.com/bphoto/gdLFWvH_0VePgcaHSPqMPg/o.jpg,$$,4.5,501,CA,236
+329 E 1st St,Los Angeles,216,Marugame Monzo,12133469762,https://s3-media3.fl.yelpcdn.com/bphoto/IJrq3xwEV94BjX0duzl31g/o.jpg,$$,4.5,3315,CA,237
+337 E 1st St,Los Angeles,217,Suehiro Cafe,12136269132,https://s3-media2.fl.yelpcdn.com/bphoto/-QCQL_ixzR7BEwXWATygbA/o.jpg,$$,4,1348,CA,238
+350 E 1st St,Los Angeles,218,Chinchikurin - Little Tokyo,12136260480,https://s3-media3.fl.yelpcdn.com/bphoto/QqsodNhJcQ49geCONcBzkA/o.jpg,$$,4,344,CA,239
+2557 W Chicago Ave,Chicago,219,Kai Zan,17732785776,https://s3-media2.fl.yelpcdn.com/bphoto/UQMQ7klk0gZkUM8Vpk1GRw/o.jpg,$$$,4.5,918,IL,240
+1751 W Chicago Ave,Chicago,220,Yuzu Sushi & Robata Grill,13126664100,https://s3-media1.fl.yelpcdn.com/bphoto/xy3W0At5Em7gPeSomiv_Eg/o.jpg,$$,4,1516,IL,241
+2101 N Milwaukee Ave,Chicago,221,Ramen Wasabi,17732278180,https://s3-media1.fl.yelpcdn.com/bphoto/Tv5wtUME7PQRPjwf5tQCdg/o.jpg,$$,4,1675,IL,242
+730 S Clark St,Chicago,222,Umai,13129868888,https://s3-media2.fl.yelpcdn.com/bphoto/D8yXqyuySsTZN2tDzvrraA/o.jpg,$$,4,795,IL,243
+820 W Lake St,Chicago,223,Momotaro,13127334818,https://s3-media3.fl.yelpcdn.com/bphoto/tsQPfciakhSA2rrUxs_Juw/o.jpg,$$$,4,903,IL,244
+218 W Kinzie St,Chicago,224,Bavette's Bar & Boeuf,13126248154,https://s3-media3.fl.yelpcdn.com/bphoto/UchBxzwVjn_XJ-c8xj2_9w/o.jpg,$$$,4.5,2131,IL,245
+3309 W Fullerton Ave,Chicago,225,Penumbra,17737722343,https://s3-media2.fl.yelpcdn.com/bphoto/yUkNNWqn5YVGNf7O5ySSbw/o.jpg,$$,5,405,IL,246
+1012 N Western Ave,Chicago,226,Boeufhaus,17736612116,https://s3-media1.fl.yelpcdn.com/bphoto/gW3F6I-Uf9b13d_PR8mlPg/o.jpg,$$$,4.5,336,IL,247
+1028 N Rush St,Chicago,227,Gibsons Bar & Steakhouse,13122668999,https://s3-media2.fl.yelpcdn.com/bphoto/HfAuCT3Rq_PmgAhNEeuF3A/o.jpg,$$$,4,1779,IL,248
+1655 W Cortland St,Chicago,228,Mable's Table,17739047433,https://s3-media2.fl.yelpcdn.com/bphoto/zk7nA0bYl0jlpuNAFQo4PQ/o.jpg,$$,4.5,232,IL,249
+178 Broadway,Brooklyn,229,Peter Luger,17183877400,https://s3-media2.fl.yelpcdn.com/bphoto/DnReRUkXRtsmKycQEYl0pg/o.jpg,$$$$,4,5291,NY,250
+240 E 58th St,New York,230,Club A Steakhouse,12126884190,https://s3-media2.fl.yelpcdn.com/bphoto/8UNPe4NiTidCHN2VpxGbfg/o.jpg,$$$,4.5,2560,NY,251
+89 Conselyea St,Brooklyn,231,DeStefano's Steakhouse,17183842836,https://s3-media2.fl.yelpcdn.com/bphoto/FixOYFrUhHZhknECaPFmxQ/o.jpg,$$$,4.5,751,NY,252
+90 E 10th St,New York,232,Ikinari Steak East Village,19173883546,https://s3-media1.fl.yelpcdn.com/bphoto/9weEpE42OTpQCJGB8CWtSQ/o.jpg,$$,4,714,NY,253
+225 Park Ave S,New York,233,Boucherie Union Square,12123530200,https://s3-media2.fl.yelpcdn.com/bphoto/U90cr6FAs7CRF83TkbvrZg/o.jpg,$$$,4.5,454,NY,254
+3361 W 8th St,Los Angeles,234,Taylor's Steakhouse,12133828449,https://s3-media2.fl.yelpcdn.com/bphoto/U-mUP201CtydekmH-QIkhw/o.jpg,$$$,4,1061,CA,255
+7229 Melrose Ave,Los Angeles,235,Lala's Argentine Grill,13239346838,https://s3-media2.fl.yelpcdn.com/bphoto/TK__ORMK24gBFJf-6S6-0g/o.jpg,$$,4,1852,CA,256
+246 N Canon Dr,Beverly Hills,236,The Penthouse at Mastro's,13108888782,https://s3-media2.fl.yelpcdn.com/bphoto/-zlW4kdNxHuyD8Rv8VQTMg/o.jpg,$$$$,4,4595,CA,257
+6320 Topanga Canyon Blvd,Los Angeles,237,Steakology,18186309899,https://s3-media3.fl.yelpcdn.com/bphoto/BLeyR-c4kfXiRtfNOEGLQw/o.jpg,,4.5,82,CA,258
+7963 Melrose Ave,Los Angeles,238,Carlitos Gardel Argentine Steakhouse,13236550891,https://s3-media3.fl.yelpcdn.com/bphoto/L021iFPAGiFWSN-z4lm6UA/o.jpg,$$$,4.5,943,CA,259
+332 S Broadway,Los Angeles,239,Maccheroni Republic,12133469725,https://s3-media3.fl.yelpcdn.com/bphoto/EDR7u3bQGbkGv4IyMb8uLQ/o.jpg,$$,4,2560,CA,260
+5732 Melrose Ave,Los Angeles,240,Osteria Mamma,13232847060,https://s3-media1.fl.yelpcdn.com/bphoto/Ca8Gq7ILf1tZQ-2paw6m-Q/o.jpg,$$,4,1435,CA,261
+1802 Hillhurst Ave,Los Angeles,241,La Pergoletta,13236648259,https://s3-media4.fl.yelpcdn.com/bphoto/obftyzxwN0tsEOZfdUAOrg/o.jpg,$$,4.5,692,CA,262
+3343 W Pico Blvd,Los Angeles,242,Pasta Sisters,13238705271,https://s3-media1.fl.yelpcdn.com/bphoto/SnocYvcwaNmPoIhgr7_-gA/o.jpg,$$,4.5,1212,CA,263
+5210 Melrose Ave,Los Angeles,243,Osteria La Buca,13234621900,https://s3-media4.fl.yelpcdn.com/bphoto/NgKm5ze7GIDYBIG3eyle6A/o.jpg,$$,4,1765,CA,264
+2701 N Halsted St,Chicago,244,Sapori Trattoria,17738329999,https://s3-media2.fl.yelpcdn.com/bphoto/CeIEaTOeC0U1e84EMVkGcA/o.jpg,$$,4.5,2028,IL,265
+201 E Grand Ave,Chicago,245,Volare Ristorante Italiano,13124109900,https://s3-media2.fl.yelpcdn.com/bphoto/OxNqB0wkhttEpk8CUCnYLw/o.jpg,$$,4,1844,IL,266
+626 N State St,Chicago,246,Quartino Ristorante,13126985000,https://s3-media1.fl.yelpcdn.com/bphoto/fn1r5y5PE3v70Zr2giBuXw/o.jpg,$$,4,4373,IL,267
+2535 N California Ave,Chicago,247,Buona Terra,17732893800,https://s3-media3.fl.yelpcdn.com/bphoto/fEJngEGPJmOxswM08AEOiQ/o.jpg,$$,4.5,606,IL,268
+1330 W Madison St,Chicago,248,Viaggio Ristorante & Lounge,13128293333,https://s3-media2.fl.yelpcdn.com/bphoto/Y5Rur7PudfQcrcvvECIJKA/o.jpg,$$,4.5,664,IL,269
+254 West 47th St,New York,249,Trattoria Trecolori,12129974540,https://s3-media4.fl.yelpcdn.com/bphoto/G8vBgHxbEfoONO0JpLX3Qw/o.jpg,$$,4,2057,NY,270
+228 W 10th St,New York,250,L'Artusi,12122555757,https://s3-media3.fl.yelpcdn.com/bphoto/Yr4VE25s-pjMnLz9nJvNdQ/o.jpg,$$$,4.5,1667,NY,271
+3 Greenwich Ave,New York,251,Olio e Piú,12122436546,https://s3-media2.fl.yelpcdn.com/bphoto/l4peUZMi7CLFcG3w3jnYvQ/o.jpg,$$,4,1640,NY,272
+649 Washington St,New York,252,Malatesta Trattoria,12127411207,https://s3-media2.fl.yelpcdn.com/bphoto/-5A2WyQVd3xrzudn9JBLVA/o.jpg,$$,4,1186,NY,273
+173 Mott St,New York,253,Pepe Rosso Social,12122190019,https://s3-media3.fl.yelpcdn.com/bphoto/ynJLjnNLQQPhYrDcwEe0yg/o.jpg,$$,4,768,NY,274

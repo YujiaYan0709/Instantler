@@ -1,0 +1,743 @@
+{
+  "fast": {
+    "search": {
+      "business": [
+        {
+          "name": "Shake Shack",
+          "rating": 4,
+          "review_count": 2966,
+          "location": {
+            "address1": "691 8th Ave",
+            "city": "New York",
+            "state": "NY",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1100",
+                  "end": "0000"
+                },
+                {
+                  "start": "1100",
+                  "end": "0000"
+                },
+                {
+                  "start": "1100",
+                  "end": "0000"
+                },
+                {
+                  "start": "1100",
+                  "end": "0000"
+                },
+                {
+                  "start": "1100",
+                  "end": "0000"
+                },
+                {
+                  "start": "1100",
+                  "end": "0000"
+                },
+                {
+                  "start": "1100",
+                  "end": "0000"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media3.fl.yelpcdn.com/bphoto/X-WfDGYiYmSuGMlaZpnFtA/o.jpg"
+          ],
+          "phone": "+16464350135",
+          "price": "$$"
+        },
+        {
+          "name": "Jollibee",
+          "rating": 3.5,
+          "review_count": 474,
+          "location": {
+            "address1": "6229 Roosevelt Ave",
+            "city": "Woodside",
+            "state": "NY",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "0700",
+                  "end": "2300"
+                },
+                {
+                  "start": "0700",
+                  "end": "2300"
+                },
+                {
+                  "start": "0700",
+                  "end": "2300"
+                },
+                {
+                  "start": "0700",
+                  "end": "2300"
+                },
+                {
+                  "start": "0700",
+                  "end": "2300"
+                },
+                {
+                  "start": "0700",
+                  "end": "2300"
+                },
+                {
+                  "start": "0700",
+                  "end": "2300"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media2.fl.yelpcdn.com/bphoto/14WJ915LMUs9mhlZsjxplw/o.jpg"
+          ],
+          "phone": "+17184264445",
+          "price": "$"
+        },
+        {
+          "name": "Shake Shack",
+          "rating": 4,
+          "review_count": 903,
+          "location": {
+            "address1": "215 Murray St",
+            "city": "New York",
+            "state": "NY",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1030",
+                  "end": "2300"
+                },
+                {
+                  "start": "1030",
+                  "end": "2300"
+                },
+                {
+                  "start": "1030",
+                  "end": "2300"
+                },
+                {
+                  "start": "1030",
+                  "end": "2300"
+                },
+                {
+                  "start": "1030",
+                  "end": "2300"
+                },
+                {
+                  "start": "1030",
+                  "end": "2300"
+                },
+                {
+                  "start": "1030",
+                  "end": "2300"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media1.fl.yelpcdn.com/bphoto/vuK8-Wdim4tXASfalJ0Nvw/o.jpg"
+          ],
+          "phone": "+16465454600",
+          "price": "$$"
+        },
+        {
+          "name": "Shake Shack",
+          "rating": 4,
+          "review_count": 820,
+          "location": {
+            "address1": "409 Fulton St",
+            "city": "Brooklyn",
+            "state": "NY",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1030",
+                  "end": "2300"
+                },
+                {
+                  "start": "1030",
+                  "end": "2300"
+                },
+                {
+                  "start": "1030",
+                  "end": "2300"
+                },
+                {
+                  "start": "1030",
+                  "end": "2300"
+                },
+                {
+                  "start": "1030",
+                  "end": "2300"
+                },
+                {
+                  "start": "1100",
+                  "end": "2300"
+                },
+                {
+                  "start": "1100",
+                  "end": "2300"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media1.fl.yelpcdn.com/bphoto/lsM1oTm23bg7y5AZmFrNZg/o.jpg"
+          ],
+          "phone": "+17183077599",
+          "price": "$$"
+        },
+        {
+          "name": "Kobeyaki",
+          "rating": 3.5,
+          "review_count": 282,
+          "location": {
+            "address1": "110 W 40th St",
+            "city": "New York",
+            "state": "NY",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1100",
+                  "end": "2100"
+                },
+                {
+                  "start": "1100",
+                  "end": "2100"
+                },
+                {
+                  "start": "1100",
+                  "end": "2100"
+                },
+                {
+                  "start": "1100",
+                  "end": "2100"
+                },
+                {
+                  "start": "1100",
+                  "end": "2100"
+                },
+                {
+                  "start": "1200",
+                  "end": "2100"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media3.fl.yelpcdn.com/bphoto/AD0yQgQTqauHSdURzjQkHQ/o.jpg"
+          ],
+          "phone": "+12123911600",
+          "price": "$$"
+        },
+
+        {
+          "name": "Chick-fil-A",
+          "rating": 3.5,
+          "review_count": 708,
+          "location": {
+            "address1": "6750 W Sunset Blvd",
+            "city": "Los Angeles",
+            "state": "CA",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "0600",
+                  "end": "2345"
+                },
+                {
+                  "start": "0600",
+                  "end": "2345"
+                },
+                {
+                  "start": "0600",
+                  "end": "2345"
+                },
+                {
+                  "start": "0600",
+                  "end": "2345"
+                },
+                {
+                  "start": "0600",
+                  "end": "2345"
+                },
+                {
+                  "start": "0600",
+                  "end": "2345"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media3.fl.yelpcdn.com/bphoto/jEck9pFYdGmL5gtQArTC7g/o.jpg"
+          ],
+          "phone": "+13234642455",
+          "price": "$"
+        },
+        {
+          "name": "In-N-Out Burger",
+          "rating": 4,
+          "review_count": 1416,
+          "location": {
+            "address1": "9149 S Sepulveda Blvd",
+            "city": "Los Angeles",
+            "state": "CA",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1030",
+                  "end": "0100"
+                },
+                {
+                  "start": "1030",
+                  "end": "0100"
+                },
+                {
+                  "start": "1030",
+                  "end": "0100"
+                },
+                {
+                  "start": "1030",
+                  "end": "0100"
+                },
+                {
+                  "start": "1030",
+                  "end": "0130"
+                },
+                {
+                  "start": "1030",
+                  "end": "0130"
+                },
+                {
+                  "start": "1030",
+                  "end": "0100"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media1.fl.yelpcdn.com/bphoto/ETH8R4dCjDl_Tjo1KFKLaQ/o.jpg"
+          ],
+          "phone": "+18007861000",
+          "price": "$"
+        },
+        {
+          "name": "Chick-fil-A",
+          "rating": 4,
+          "review_count": 390,
+          "location": {
+            "address1": "3758 S Figueroa St",
+            "city": "Los Angeles",
+            "state": "CA",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "0630",
+                  "end": "2300"
+                },
+                {
+                  "start": "0630",
+                  "end": "2300"
+                },
+                {
+                  "start": "0630",
+                  "end": "2300"
+                },
+                {
+                  "start": "0630",
+                  "end": "2300"
+                },
+                {
+                  "start": "0630",
+                  "end": "2300"
+                },
+                {
+                  "start": "0630",
+                  "end": "2300"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media4.fl.yelpcdn.com/bphoto/KMhomxmGnQ670Lq4TvgQBA/o.jpg"
+          ],
+          "phone": "+12137478721",
+          "price": "$"
+        },
+        {
+          "name": "In-N-Out Burger",
+          "rating": 4,
+          "review_count": 1520,
+          "location": {
+            "address1": "7009 Sunset Blvd",
+            "city": "Hollywood",
+            "state": "CA",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1030",
+                  "end": "0100"
+                },
+                {
+                  "start": "1030",
+                  "end": "0100"
+                },
+                {
+                  "start": "1030",
+                  "end": "0100"
+                },
+                {
+                  "start": "1030",
+                  "end": "0100"
+                },
+                {
+                  "start": "1030",
+                  "end": "0130"
+                },
+                {
+                  "start": "1030",
+                  "end": "0130"
+                },
+                {
+                  "start": "1030",
+                  "end": "0100"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media1.fl.yelpcdn.com/bphoto/LwUTvq9LoPHTU_bOS2_Wug/o.jpg"
+          ],
+          "phone": "+18007861000",
+          "price": "$"
+        },
+        {
+          "name": "Figueroa Philly Cheese Steak",
+          "rating": 4.5,
+          "review_count": 1022,
+          "location": {
+            "address1": "3850 S Figueroa St",
+            "city": "Los Angeles",
+            "state": "CA",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1030",
+                  "end": "1900"
+                },
+                {
+                  "start": "1030",
+                  "end": "1900"
+                },
+                {
+                  "start": "1030",
+                  "end": "1900"
+                },
+                {
+                  "start": "1030",
+                  "end": "2000"
+                },
+                {
+                  "start": "1030",
+                  "end": "2000"
+                },
+                {
+                  "start": "1030",
+                  "end": "1900"
+                },
+                {
+                  "start": "1100",
+                  "end": "1900"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media2.fl.yelpcdn.com/bphoto/eyX7Qn0-unMQE0vPGCv8WA/o.jpg"
+          ],
+          "phone": "+12137489073",
+          "price": "$$"
+        },
+        {
+          "name": "Chick-fil-A",
+          "rating": 4,
+          "review_count": 373,
+          "location": {
+            "address1": "30 E Chicago Ave",
+            "city": "Chicago",
+            "state": "IL",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "0630",
+                  "end": "2300"
+                },
+                {
+                  "start": "0630",
+                  "end": "2300"
+                },
+                {
+                  "start": "0630",
+                  "end": "2300"
+                },
+                {
+                  "start": "0630",
+                  "end": "2300"
+                },
+                {
+                  "start": "0630",
+                  "end": "2300"
+                },
+                {
+                  "start": "0630",
+                  "end": "2300"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media2.fl.yelpcdn.com/bphoto/BJtzXr6fdL0pjst52wRigw/o.jpg"
+          ],
+          "phone": "+13122668888",
+          "price": "$"
+        },
+        {
+          "name": "Shake Shack",
+          "rating": 3.5,
+          "review_count": 1118,
+          "location": {
+            "address1": "66 E Ohio St",
+            "city": "Chicago",
+            "state": "IL",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1100",
+                  "end": "2300"
+                },
+                {
+                  "start": "1100",
+                  "end": "2300"
+                },
+                {
+                  "start": "1100",
+                  "end": "2300"
+                },
+                {
+                  "start": "1100",
+                  "end": "2300"
+                },
+                {
+                  "start": "1100",
+                  "end": "0000"
+                },
+                {
+                  "start": "1100",
+                  "end": "0000"
+                },
+                {
+                  "start": "1100",
+                  "end": "2300"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media2.fl.yelpcdn.com/bphoto/9UaGSq0cwjn3z55SVNnG9w/o.jpg"
+          ],
+          "phone": "+13126671701",
+          "price": "$$"
+        },
+        {
+          "name": "McDonald's",
+          "rating": 3,
+          "review_count": 358,
+          "location": {
+            "address1": "600 N Clark",
+            "city": "Chicago",
+            "state": "IL",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "0000",
+                  "end": "0000"
+                },
+                {
+                  "start": "0000",
+                  "end": "0000"
+                },
+                {
+                  "start": "0000",
+                  "end": "0000"
+                },
+                {
+                  "start": "0000",
+                  "end": "0000"
+                },
+                {
+                  "start": "0000",
+                  "end": "0000"
+                },
+                {
+                  "start": "0000",
+                  "end": "0000"
+                },
+                {
+                  "start": "0000",
+                  "end": "0000"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media4.fl.yelpcdn.com/bphoto/D5HAOJO3VFAgbS4AFoh-ew/o.jpg"
+          ],
+          "phone": "+13128670455",
+          "price": "$"
+        },
+        {
+          "name": "The Wiener's Circle",
+          "rating": 3.5,
+          "review_count": 934,
+          "location": {
+            "address1": "2622 N Clark St",
+            "city": "Chicago",
+            "state": "IL",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1100",
+                  "end": "0400"
+                },
+                {
+                  "start": "1100",
+                  "end": "0400"
+                },
+                {
+                  "start": "1100",
+                  "end": "0400"
+                },
+                {
+                  "start": "1100",
+                  "end": "0400"
+                },
+                {
+                  "start": "1100",
+                  "end": "0500"
+                },
+                {
+                  "start": "1100",
+                  "end": "0500"
+                },
+                {
+                  "start": "1100",
+                  "end": "0400"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media1.fl.yelpcdn.com/bphoto/-9RAO9apY8OP3Mc4D1AYUQ/o.jpg"
+          ],
+          "phone": "+17734777444",
+          "price": "$"
+        },
+        {
+          "name": "Meatheads",
+          "rating": 4,
+          "review_count": 154,
+          "location": {
+            "address1": "3304 N Western Ave",
+            "city": "Chicago",
+            "state": "IL",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1100",
+                  "end": "2100"
+                },
+                {
+                  "start": "1100",
+                  "end": "2100"
+                },
+                {
+                  "start": "1100",
+                  "end": "2100"
+                },
+                {
+                  "start": "1100",
+                  "end": "2100"
+                },
+                {
+                  "start": "1100",
+                  "end": "2200"
+                },
+                {
+                  "start": "1100",
+                  "end": "2200"
+                },
+                {
+                  "start": "1100",
+                  "end": "2100"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media3.fl.yelpcdn.com/bphoto/bZTP_EluzOXmq7dFo652sQ/o.jpg"
+          ],
+          "phone": "+17735255300",
+          "price": "$"
+        }
+      ]
+    }
+  }
+}

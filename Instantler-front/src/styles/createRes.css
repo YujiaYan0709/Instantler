@@ -1,0 +1,53 @@
+.createRes form, .createRes button{
+  width:80% !important;
+  margin:auto !important;
+}
+.createRes form h1{
+  font-size:4em;
+  text-align:center;
+}
+.createRes form p{
+  text-align:center;
+  font-size:24px;
+}
+.createRes, .restInfo{
+  height:100%;
+}
+
+.ui.basic.segment{
+  padding-right:0!important;
+  padding-left:0!important;
+}
+.restInfo{
+  width:90%;
+  margin:auto;
+}
+.restInfo .nums_rating{
+  height:20px;
+  font-size:100%;
+  display:flex;
+  align-items: center;
+}
+.restInfo .nums_rating span{
+  margin-left:10px;
+  font-size:16px;
+}
+
+.update-separate{
+  display:flex;
+  justify-content: space-between;
+}
+.restInfo .editableInfo span{
+  margin-right:20px;
+  font-size:16px;
+}
+.nums_rating{
+  margin-bottom:10px;
+}
+.editableInfo{
+  /*margin-top:20px;*/
+  margin-bottom:10px;
+}
+.editableInfo button{
+  margin-left:10px !important;
+}

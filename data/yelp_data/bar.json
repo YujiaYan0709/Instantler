@@ -1,0 +1,706 @@
+{
+  "bar": {
+    "search": {
+      "business": [
+              {
+          "name": "R Bar",
+          "rating": 4,
+          "review_count": 597,
+          "location": {
+            "address1": "3331 W 8th St",
+            "city": "Los Angeles",
+            "state": "CA",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1900",
+                  "end": "0200"
+                },
+                {
+                  "start": "1900",
+                  "end": "0200"
+                },
+                {
+                  "start": "1700",
+                  "end": "0200"
+                },
+                {
+                  "start": "1700",
+                  "end": "0200"
+                },
+                {
+                  "start": "1700",
+                  "end": "0200"
+                },
+                {
+                  "start": "1100",
+                  "end": "0200"
+                },
+                {
+                  "start": "1100",
+                  "end": "0200"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media3.fl.yelpcdn.com/bphoto/uq6rRSVIxbV_bdx_CX2Wtw/o.jpg"
+          ],
+          "phone": "+12133877227",
+          "price": "$$"
+        },
+        {
+          "name": "Tiki-Ti Cocktail Lounge",
+          "rating": 4.5,
+          "review_count": 845,
+          "location": {
+            "address1": "4427 W Sunset Blvd",
+            "city": "Los Angeles",
+            "state": "CA",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1600",
+                  "end": "0200"
+                },
+                {
+                  "start": "1600",
+                  "end": "0200"
+                },
+                {
+                  "start": "1600",
+                  "end": "0200"
+                },
+                {
+                  "start": "1600",
+                  "end": "0200"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media2.fl.yelpcdn.com/bphoto/UwwPtsvkz00dNU63M56fTA/o.jpg"
+          ],
+          "phone": "+13236699381",
+          "price": "$$"
+        },
+        {
+          "name": "Paper Tiger Bar",
+          "rating": 4,
+          "review_count": 128,
+          "location": {
+            "address1": "4574 Beverly Blvd",
+            "city": "Los Angeles",
+            "state": "CA",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "2100",
+                  "end": "0200"
+                },
+                {
+                  "start": "2100",
+                  "end": "0200"
+                },
+                {
+                  "start": "2100",
+                  "end": "0200"
+                },
+                {
+                  "start": "2100",
+                  "end": "0200"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media4.fl.yelpcdn.com/bphoto/lt6bk_cW8k2A5cubSU5nUw/o.jpg"
+          ],
+          "phone": "+13238443716",
+          "price": "$$"
+        },
+        {
+          "name": "Melrose Umbrella",
+          "rating": 4,
+          "review_count": 443,
+          "location": {
+            "address1": "7465 Melrose Ave",
+            "city": "Los Angeles",
+            "state": "CA",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1000",
+                  "end": "0200"
+                },
+                {
+                  "start": "1000",
+                  "end": "0200"
+                },
+                {
+                  "start": "1000",
+                  "end": "0200"
+                },
+                {
+                  "start": "1000",
+                  "end": "0200"
+                },
+                {
+                  "start": "1000",
+                  "end": "0200"
+                },
+                {
+                  "start": "1000",
+                  "end": "0200"
+                },
+                {
+                  "start": "1000",
+                  "end": "0200"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media2.fl.yelpcdn.com/bphoto/L5GMSR9QFAPmStgVP-mX9g/o.jpg"
+          ],
+          "phone": "+13239510709",
+          "price": "$$"
+        },
+        {
+          "name": "Frolic Room",
+          "rating": 4,
+          "review_count": 423,
+          "location": {
+            "address1": "6245 Hollywood Blvd",
+            "city": "Los Angeles",
+            "state": "CA",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1100",
+                  "end": "0200"
+                },
+                {
+                  "start": "1100",
+                  "end": "0200"
+                },
+                {
+                  "start": "1100",
+                  "end": "0200"
+                },
+                {
+                  "start": "1100",
+                  "end": "0200"
+                },
+                {
+                  "start": "1100",
+                  "end": "0200"
+                },
+                {
+                  "start": "1100",
+                  "end": "0200"
+                },
+                {
+                  "start": "1100",
+                  "end": "0200"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media4.fl.yelpcdn.com/bphoto/8NvDc1OeBNg72IWB4orY9w/o.jpg"
+          ],
+          "phone": "+13234625890",
+          "price": "$"
+        },
+      {
+          "name": "The Library",
+          "rating": 4.5,
+          "review_count": 102,
+          "location": {
+            "address1": "230 W Kinzie St",
+            "city": "Chicago",
+            "state": "IL",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1800",
+                  "end": "2300"
+                },
+                {
+                  "start": "1800",
+                  "end": "0000"
+                },
+                {
+                  "start": "1800",
+                  "end": "0000"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media3.fl.yelpcdn.com/bphoto/PMp03RaMZ6V3RHBX7LUItw/o.jpg"
+          ],
+          "phone": "+13124649544",
+          "price": "$$"
+        },
+        {
+          "name": "Best Intentions",
+          "rating": 4,
+          "review_count": 116,
+          "location": {
+            "address1": "3281 W Armitage Ave",
+            "city": "Chicago",
+            "state": "IL",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1700",
+                  "end": "0200"
+                },
+                {
+                  "start": "1700",
+                  "end": "0200"
+                },
+                {
+                  "start": "1700",
+                  "end": "0200"
+                },
+                {
+                  "start": "1700",
+                  "end": "0200"
+                },
+                {
+                  "start": "1100",
+                  "end": "0300"
+                },
+                {
+                  "start": "1100",
+                  "end": "0200"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media1.fl.yelpcdn.com/bphoto/0hkVCjv1jXCbCL-osv4aMw/o.jpg"
+          ],
+          "phone": "+13128181254",
+          "price": "$$"
+        },
+        {
+          "name": "Queen Mary Tavern",
+          "rating": 4.5,
+          "review_count": 75,
+          "location": {
+            "address1": "2125 W Division St",
+            "city": "Chicago",
+            "state": "IL",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1700",
+                  "end": "0200"
+                },
+                {
+                  "start": "1700",
+                  "end": "0200"
+                },
+                {
+                  "start": "1700",
+                  "end": "0200"
+                },
+                {
+                  "start": "1700",
+                  "end": "0200"
+                },
+                {
+                  "start": "1700",
+                  "end": "0200"
+                },
+                {
+                  "start": "1700",
+                  "end": "0300"
+                },
+                {
+                  "start": "1700",
+                  "end": "0200"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media2.fl.yelpcdn.com/bphoto/UK8Y1y4yt5po724RszRzUw/o.jpg"
+          ],
+          "phone": "+17736973522",
+          "price": "$$"
+        },
+        {
+          "name": "Three Dots and a Dash",
+          "rating": 4,
+          "review_count": 2840,
+          "location": {
+            "address1": "435 N Clark St",
+            "city": "Chicago",
+            "state": "IL",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1700",
+                  "end": "0200"
+                },
+                {
+                  "start": "1700",
+                  "end": "0200"
+                },
+                {
+                  "start": "1700",
+                  "end": "0200"
+                },
+                {
+                  "start": "1700",
+                  "end": "0200"
+                },
+                {
+                  "start": "1600",
+                  "end": "0200"
+                },
+                {
+                  "start": "1600",
+                  "end": "0300"
+                },
+                {
+                  "start": "1700",
+                  "end": "0200"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media4.fl.yelpcdn.com/bphoto/93z5BOe9G_5BpRkqjzRW2A/o.jpg"
+          ],
+          "phone": "+13126104220",
+          "price": "$$"
+        },
+        {
+          "name": "Delilah's",
+          "rating": 4.5,
+          "review_count": 485,
+          "location": {
+            "address1": "2771 N Lincoln Ave",
+            "city": "Chicago",
+            "state": "IL",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1600",
+                  "end": "0200"
+                },
+                {
+                  "start": "1600",
+                  "end": "0200"
+                },
+                {
+                  "start": "1600",
+                  "end": "0200"
+                },
+                {
+                  "start": "1600",
+                  "end": "0200"
+                },
+                {
+                  "start": "1600",
+                  "end": "0200"
+                },
+                {
+                  "start": "1600",
+                  "end": "0300"
+                },
+                {
+                  "start": "1600",
+                  "end": "0200"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media2.fl.yelpcdn.com/bphoto/0qM5oGQQamkczrXELnKKmA/o.jpg"
+          ],
+          "phone": "+17734722771",
+          "price": "$"
+        },
+        {
+          "name": "San Pedro",
+          "rating": 5,
+          "review_count": 1,
+          "location": {
+            "address1": "320 Van Brunt St",
+            "city": "Brooklyn",
+            "state": "NY",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1700",
+                  "end": "0200"
+                },
+                {
+                  "start": "1700",
+                  "end": "0200"
+                },
+                {
+                  "start": "1700",
+                  "end": "0200"
+                },
+                {
+                  "start": "1700",
+                  "end": "0200"
+                },
+                {
+                  "start": "1700",
+                  "end": "0400"
+                },
+                {
+                  "start": "1200",
+                  "end": "0400"
+                },
+                {
+                  "start": "1200",
+                  "end": "0200"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media1.fl.yelpcdn.com/bphoto/8hvLeRU96ZtpqatgAAY-HQ/o.jpg"
+          ],
+          "phone": "+17185763916",
+          "price": null
+        },
+        {
+          "name": "The Dead Rabbit",
+          "rating": 4,
+          "review_count": 1410,
+          "location": {
+            "address1": "30 Water St",
+            "city": "New York",
+            "state": "NY",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1100",
+                  "end": "0400"
+                },
+                {
+                  "start": "1100",
+                  "end": "0400"
+                },
+                {
+                  "start": "1100",
+                  "end": "0400"
+                },
+                {
+                  "start": "1100",
+                  "end": "0400"
+                },
+                {
+                  "start": "1100",
+                  "end": "0400"
+                },
+                {
+                  "start": "1000",
+                  "end": "0300"
+                },
+                {
+                  "start": "1000",
+                  "end": "0300"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media2.fl.yelpcdn.com/bphoto/_4T5R0HHhASROheby-TXDA/o.jpg"
+          ],
+          "phone": "+16464227906",
+          "price": "$$"
+        },
+        {
+          "name": "The Lighthouse",
+          "rating": 4.5,
+          "review_count": 9,
+          "location": {
+            "address1": "29 Adams St",
+            "city": "Dumbo",
+            "state": "NY",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1200",
+                  "end": "2200"
+                },
+                {
+                  "start": "1200",
+                  "end": "2200"
+                },
+                {
+                  "start": "1200",
+                  "end": "2200"
+                },
+                {
+                  "start": "1200",
+                  "end": "2200"
+                },
+                {
+                  "start": "1200",
+                  "end": "2200"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media3.fl.yelpcdn.com/bphoto/F92QSgcbrApLW19bp8tx5Q/o.jpg"
+          ],
+          "phone": "+16463423033",
+          "price": "$$"
+        },
+        {
+          "name": "Raines Law Room",
+          "rating": 4.5,
+          "review_count": 1392,
+          "location": {
+            "address1": "48 W 17th St",
+            "city": "New York",
+            "state": "NY",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1700",
+                  "end": "0200"
+                },
+                {
+                  "start": "1700",
+                  "end": "0200"
+                },
+                {
+                  "start": "1700",
+                  "end": "0200"
+                },
+                {
+                  "start": "1700",
+                  "end": "0200"
+                },
+                {
+                  "start": "1700",
+                  "end": "0300"
+                },
+                {
+                  "start": "1700",
+                  "end": "0300"
+                },
+                {
+                  "start": "1700",
+                  "end": "0100"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media2.fl.yelpcdn.com/bphoto/CHWNi0sxLuPRDs39PP834A/o.jpg"
+          ],
+          "phone": "",
+          "price": "$$$"
+        },
+        {
+          "name": "The Ship",
+          "rating": 4,
+          "review_count": 305,
+          "location": {
+            "address1": "158 Lafayette St",
+            "city": "New York",
+            "state": "NY",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1700",
+                  "end": "0100"
+                },
+                {
+                  "start": "1700",
+                  "end": "0100"
+                },
+                {
+                  "start": "1700",
+                  "end": "0100"
+                },
+                {
+                  "start": "1700",
+                  "end": "0100"
+                },
+                {
+                  "start": "1700",
+                  "end": "0300"
+                },
+                {
+                  "start": "1700",
+                  "end": "0300"
+                },
+                {
+                  "start": "1700",
+                  "end": "0100"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media2.fl.yelpcdn.com/bphoto/aR-_vRSlhIweJdDoE3nTcw/o.jpg"
+          ],
+          "phone": "+12122198496",
+          "price": "$$"
+        }
+      ]
+    }
+  }
+}

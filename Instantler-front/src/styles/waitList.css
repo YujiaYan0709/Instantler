@@ -1,0 +1,17 @@
+.restWSnum{
+  width:50%;
+}
+.waitListHeader{
+  display:flex;
+  justify-content: space-between;
+}
+.resList{
+  width:45%;
+}
+.resList .item{
+  display:flex!important;
+  justify-content: space-between!important;
+}
+.restWSnum .item{
+  padding-left:0 !important;
+}

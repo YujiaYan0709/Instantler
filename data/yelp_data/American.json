@@ -1,0 +1,754 @@
+{
+  "american": {
+    "search": {
+      "business": [
+      {
+          "name": "Little Bad Wolf",
+          "rating": 4.5,
+          "review_count": 1296,
+          "location": {
+            "address1": "1541 W Bryn Mawr Ave",
+            "city": "Chicago",
+            "state": "IL",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1100",
+                  "end": "0200"
+                },
+                {
+                  "start": "1100",
+                  "end": "0200"
+                },
+                {
+                  "start": "1100",
+                  "end": "0200"
+                },
+                {
+                  "start": "1100",
+                  "end": "0200"
+                },
+                {
+                  "start": "1100",
+                  "end": "0200"
+                },
+                {
+                  "start": "1100",
+                  "end": "0300"
+                },
+                {
+                  "start": "1100",
+                  "end": "0000"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media1.fl.yelpcdn.com/bphoto/22EJD1zkqn80Ys7xU-t15A/o.jpg"
+          ],
+          "phone": "+17739426399",
+          "price": "$$"
+        },
+        {
+          "name": "The Dearborn",
+          "rating": 4.5,
+          "review_count": 1068,
+          "location": {
+            "address1": "145 N Dearborn St",
+            "city": "Chicago",
+            "state": "IL",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1100",
+                  "end": "2200"
+                },
+                {
+                  "start": "1100",
+                  "end": "2300"
+                },
+                {
+                  "start": "1100",
+                  "end": "2300"
+                },
+                {
+                  "start": "1100",
+                  "end": "2300"
+                },
+                {
+                  "start": "1100",
+                  "end": "0000"
+                },
+                {
+                  "start": "1000",
+                  "end": "0000"
+                },
+                {
+                  "start": "1000",
+                  "end": "2200"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media2.fl.yelpcdn.com/bphoto/eSXeGiq2bRUjy7KOER4jeg/o.jpg"
+          ],
+          "phone": "+13123841242",
+          "price": "$$"
+        },
+        {
+          "name": "Cira",
+          "rating": 5,
+          "review_count": 6,
+          "location": {
+            "address1": "200 N Green St",
+            "city": "Chicago",
+            "state": "IL",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "0700",
+                  "end": "2200"
+                },
+                {
+                  "start": "0700",
+                  "end": "2200"
+                },
+                {
+                  "start": "0700",
+                  "end": "2200"
+                },
+                {
+                  "start": "0700",
+                  "end": "2200"
+                },
+                {
+                  "start": "0700",
+                  "end": "2200"
+                },
+                {
+                  "start": "0700",
+                  "end": "0000"
+                },
+                {
+                  "start": "0700",
+                  "end": "2100"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media4.fl.yelpcdn.com/bphoto/-d527D5SU4dr7KvJYUVYdA/o.jpg"
+          ],
+          "phone": "+13127611777",
+          "price": null
+        },
+        {
+          "name": "Monnie Burke's",
+          "rating": 4.5,
+          "review_count": 246,
+          "location": {
+            "address1": "1163 W 18th St",
+            "city": "Chicago",
+            "state": "IL",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1600",
+                  "end": "2100"
+                },
+                {
+                  "start": "1600",
+                  "end": "2200"
+                },
+                {
+                  "start": "1600",
+                  "end": "2200"
+                },
+                {
+                  "start": "1600",
+                  "end": "2200"
+                },
+                {
+                  "start": "1600",
+                  "end": "2300"
+                },
+                {
+                  "start": "1000",
+                  "end": "2300"
+                },
+                {
+                  "start": "1000",
+                  "end": "2100"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media3.fl.yelpcdn.com/bphoto/DDyGJfg4t69YOmUo_pRM5Q/o.jpg"
+          ],
+          "phone": "+13122432410",
+          "price": "$$"
+        },
+        {
+          "name": "Bandera Restaurant",
+          "rating": 4,
+          "review_count": 1748,
+          "location": {
+            "address1": "535 N Michigan Ave",
+            "city": "Chicago",
+            "state": "IL",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1130",
+                  "end": "2200"
+                },
+                {
+                  "start": "1130",
+                  "end": "2200"
+                },
+                {
+                  "start": "1130",
+                  "end": "2200"
+                },
+                {
+                  "start": "1130",
+                  "end": "2200"
+                },
+                {
+                  "start": "1130",
+                  "end": "2300"
+                },
+                {
+                  "start": "1130",
+                  "end": "2300"
+                },
+                {
+                  "start": "1130",
+                  "end": "2200"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media2.fl.yelpcdn.com/bphoto/zYlaZ78v4DZbeDKPB4xGkQ/o.jpg"
+          ],
+          "phone": "+13126443524",
+          "price": "$$"
+        },
+          {
+          "name": "The Morrison",
+          "rating": 4.5,
+          "review_count": 4049,
+          "location": {
+            "address1": "3179 Los Feliz Blvd",
+            "city": "Los Angeles",
+            "state": "CA",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1400",
+                  "end": "2300"
+                },
+                {
+                  "start": "1400",
+                  "end": "2300"
+                },
+                {
+                  "start": "1400",
+                  "end": "2300"
+                },
+                {
+                  "start": "1130",
+                  "end": "2300"
+                },
+                {
+                  "start": "1130",
+                  "end": "0100"
+                },
+                {
+                  "start": "1130",
+                  "end": "0100"
+                },
+                {
+                  "start": "1130",
+                  "end": "2300"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media2.fl.yelpcdn.com/bphoto/fNFdhU_I6Iw7J1jM5nVmAw/o.jpg"
+          ],
+          "phone": "+13236671839",
+          "price": "$$"
+        },
+        {
+          "name": "The Kitchen",
+          "rating": 4,
+          "review_count": 1383,
+          "location": {
+            "address1": "4348 Fountain Ave",
+            "city": "Los Angeles",
+            "state": "CA",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1100",
+                  "end": "2200"
+                },
+                {
+                  "start": "1100",
+                  "end": "2200"
+                },
+                {
+                  "start": "1100",
+                  "end": "2200"
+                },
+                {
+                  "start": "1100",
+                  "end": "2200"
+                },
+                {
+                  "start": "1100",
+                  "end": "0000"
+                },
+                {
+                  "start": "1000",
+                  "end": "0000"
+                },
+                {
+                  "start": "1000",
+                  "end": "2200"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media2.fl.yelpcdn.com/bphoto/NOWqaV2fY1hr8vrTzdZg6w/o.jpg"
+          ],
+          "phone": "+13236643663",
+          "price": "$$"
+        },
+        {
+          "name": "Humble Potato",
+          "rating": 4.5,
+          "review_count": 548,
+          "location": {
+            "address1": "12608 Washington Blvd",
+            "city": "Los Angeles",
+            "state": "CA",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1130",
+                  "end": "2200"
+                },
+                {
+                  "start": "1130",
+                  "end": "2200"
+                },
+                {
+                  "start": "1130",
+                  "end": "2200"
+                },
+                {
+                  "start": "1130",
+                  "end": "2200"
+                },
+                {
+                  "start": "1130",
+                  "end": "2200"
+                },
+                {
+                  "start": "1200",
+                  "end": "2200"
+                },
+                {
+                  "start": "1200",
+                  "end": "2200"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media3.fl.yelpcdn.com/bphoto/sfj4Gb4bc-uWysCGyWRAPQ/o.jpg"
+          ],
+          "phone": "+13108819498",
+          "price": "$$"
+        },
+        {
+          "name": "A Food Affair",
+          "rating": 4.5,
+          "review_count": 1189,
+          "location": {
+            "address1": "1513 S Robertson Blvd",
+            "city": "Los Angeles",
+            "state": "CA",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1730",
+                  "end": "2200"
+                },
+                {
+                  "start": "1730",
+                  "end": "2200"
+                },
+                {
+                  "start": "1730",
+                  "end": "2200"
+                },
+                {
+                  "start": "1730",
+                  "end": "2200"
+                },
+                {
+                  "start": "1700",
+                  "end": "2200"
+                },
+                {
+                  "start": "1730",
+                  "end": "2130"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media2.fl.yelpcdn.com/bphoto/deMtMdGXWHGI-bHD-xKwdw/o.jpg"
+          ],
+          "phone": "+13105579795",
+          "price": "$$"
+        },
+        {
+          "name": "Truxton's American Bistro",
+          "rating": 4,
+          "review_count": 1305,
+          "location": {
+            "address1": "8611 Truxton Ave",
+            "city": "Los Angeles",
+            "state": "CA",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1100",
+                  "end": "2200"
+                },
+                {
+                  "start": "1100",
+                  "end": "2200"
+                },
+                {
+                  "start": "1100",
+                  "end": "2200"
+                },
+                {
+                  "start": "1100",
+                  "end": "2200"
+                },
+                {
+                  "start": "1100",
+                  "end": "2200"
+                },
+                {
+                  "start": "0900",
+                  "end": "2200"
+                },
+                {
+                  "start": "0900",
+                  "end": "2200"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media4.fl.yelpcdn.com/bphoto/rVZ0ymI4ntqcEIrFsUDvZg/o.jpg"
+          ],
+          "phone": "+13104178789",
+          "price": "$$"
+        },
+        {
+          "name": "The Smith",
+          "rating": 4,
+          "review_count": 2332,
+          "location": {
+            "address1": "956 2nd Ave",
+            "city": "New York",
+            "state": "NY",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "0730",
+                  "end": "0000"
+                },
+                {
+                  "start": "0730",
+                  "end": "0000"
+                },
+                {
+                  "start": "0730",
+                  "end": "0000"
+                },
+                {
+                  "start": "0730",
+                  "end": "0000"
+                },
+                {
+                  "start": "0730",
+                  "end": "0100"
+                },
+                {
+                  "start": "0900",
+                  "end": "0100"
+                },
+                {
+                  "start": "0900",
+                  "end": "0000"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media1.fl.yelpcdn.com/bphoto/fGAZCdyPI8qil5boCzidBA/o.jpg"
+          ],
+          "phone": "+12126442700",
+          "price": "$$"
+        },
+        {
+          "name": "Bea",
+          "rating": 4,
+          "review_count": 2221,
+          "location": {
+            "address1": "403 W 43rd St",
+            "city": "New York",
+            "state": "NY",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1700",
+                  "end": "0200"
+                },
+                {
+                  "start": "1700",
+                  "end": "0200"
+                },
+                {
+                  "start": "1700",
+                  "end": "0200"
+                },
+                {
+                  "start": "1700",
+                  "end": "0200"
+                },
+                {
+                  "start": "1700",
+                  "end": "0200"
+                },
+                {
+                  "start": "1100",
+                  "end": "1600"
+                },
+                {
+                  "start": "1700",
+                  "end": "0200"
+                },
+                {
+                  "start": "1100",
+                  "end": "1600"
+                },
+                {
+                  "start": "1700",
+                  "end": "0200"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media2.fl.yelpcdn.com/bphoto/MsmtaEOOHFQrINBPLnZOUw/o.jpg"
+          ],
+          "phone": "+12126021910",
+          "price": "$$"
+        },
+        {
+          "name": "The Poni Room",
+          "rating": 5,
+          "review_count": 10,
+          "location": {
+            "address1": "316 Bowery",
+            "city": "New York",
+            "state": "NY",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1800",
+                  "end": "2200"
+                },
+                {
+                  "start": "1800",
+                  "end": "2200"
+                },
+                {
+                  "start": "1800",
+                  "end": "2200"
+                },
+                {
+                  "start": "1700",
+                  "end": "2300"
+                },
+                {
+                  "start": "1700",
+                  "end": "2300"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media2.fl.yelpcdn.com/bphoto/U7Gft_MmiDjkJxJxjefSqQ/o.jpg"
+          ],
+          "phone": "+12122540350",
+          "price": null
+        },
+        {
+          "name": "Uglyduckling",
+          "rating": 4,
+          "review_count": 432,
+          "location": {
+            "address1": "166 Smith St",
+            "city": "Brooklyn",
+            "state": "NY",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1200",
+                  "end": "2100"
+                },
+                {
+                  "start": "1200",
+                  "end": "2100"
+                },
+                {
+                  "start": "1200",
+                  "end": "2100"
+                },
+                {
+                  "start": "1200",
+                  "end": "2100"
+                },
+                {
+                  "start": "1200",
+                  "end": "2100"
+                },
+                {
+                  "start": "1100",
+                  "end": "2100"
+                },
+                {
+                  "start": "1100",
+                  "end": "2000"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media2.fl.yelpcdn.com/bphoto/vyH8WZkvbeWHebYYz-M8rg/o.jpg"
+          ],
+          "phone": "+17184513825",
+          "price": "$$"
+        },
+        {
+          "name": "Valerie",
+          "rating": 4,
+          "review_count": 84,
+          "location": {
+            "address1": "45 W 45th St between 5th & 6th Ave",
+            "city": "New York",
+            "state": "NY",
+            "country": "US"
+          },
+          "hours": [
+            {
+              "open": [
+                {
+                  "start": "1100",
+                  "end": "0200"
+                },
+                {
+                  "start": "1100",
+                  "end": "0200"
+                },
+                {
+                  "start": "1100",
+                  "end": "0200"
+                },
+                {
+                  "start": "1100",
+                  "end": "0200"
+                },
+                {
+                  "start": "1100",
+                  "end": "0200"
+                },
+                {
+                  "start": "1000",
+                  "end": "0200"
+                },
+                {
+                  "start": "1000",
+                  "end": "0200"
+                }
+              ]
+            }
+          ],
+          "photos": [
+            "https://s3-media1.fl.yelpcdn.com/bphoto/ONswUNQ7qqqf9tJlfwVOZw/o.jpg"
+          ],
+          "phone": "+12123024545",
+          "price": null
+        }
+      ]
+    }
+  }
+}
